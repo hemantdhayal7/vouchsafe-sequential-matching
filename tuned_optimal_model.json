@@ -1,0 +1,20 @@
+{
+  "model_type": "Tuned_ElasticNet_LogisticRegression",
+  "best_hyperparameters": {
+    "C": 0.01,
+    "l1_ratio": 0.0,
+    "penalty": "l2",
+    "solver": "lbfgs"
+  },
+  "cv_roc_auc": 0.5558719785095118,
+  "feature_weights": {
+    "relationship_goal_match": 0.15615469625354583,
+    "relationship_pace_match": 0.06165216544919257,
+    "lifestyle_match": 0.07098046175962182,
+    "conversations_match": 0.07652968763410858,
+    "schedule_overlap": 0.0250721045313048,
+    "same_zone": 0.013866958703834177,
+    "age_diff": -0.015565070523868817
+  },
+  "bias": -0.1619891005462197
+}
