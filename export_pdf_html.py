@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Converts RESEARCH_PAPER.md and RESEARCH_NOTE.md into publication-quality HTML documents with KaTeX math rendering."""
+"""Converts research notes and submission documents into publication-quality HTML documents with KaTeX math rendering."""
 from pathlib import Path
 
 def convert_md_to_html(md_path_str: str, html_path_str: str, title: str):
@@ -20,7 +20,7 @@ def convert_md_to_html(md_path_str: str, html_path_str: str, title: str):
 <style>
   @page {{
     size: letter;
-    margin: 20mm;
+    margin: 18mm;
   }}
   body {{
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -33,45 +33,39 @@ def convert_md_to_html(md_path_str: str, html_path_str: str, title: str):
   }}
   h1 {{
     color: #0f172a;
-    font-size: 26px;
+    font-size: 24px;
     font-weight: 700;
     line-height: 1.3;
-    border-bottom: 2px solid #3b82f6;
-    padding-bottom: 12px;
+    border-bottom: 2px solid #2563eb;
+    padding-bottom: 10px;
     margin-top: 10px;
   }}
   h2 {{
-    color: #1e3a8a;
-    font-size: 19px;
+    color: #1e40af;
+    font-size: 18px;
     font-weight: 600;
     border-bottom: 1px solid #e2e8f0;
     padding-bottom: 6px;
-    margin-top: 32px;
+    margin-top: 28px;
   }}
   h3 {{
     color: #1d4ed8;
     font-size: 15px;
     font-weight: 600;
-    margin-top: 22px;
-  }}
-  h4 {{
-    color: #334155;
-    font-size: 14px;
-    font-weight: 600;
-    margin-top: 16px;
+    margin-top: 20px;
   }}
   p, li {{
-    font-size: 14.5px;
+    font-size: 14px;
   }}
   table {{
     border-collapse: collapse;
     width: 100%;
-    margin: 20px 0;
-    font-size: 13.5px;
+    margin: 18px 0;
+    font-size: 13px;
   }}
   th, td {{
     border: 1px solid #cbd5e1;
-    padding: 9px 12px;
+    padding: 8px 12px;
     text-align: left;
   }}
   th {{
@@ -88,16 +82,16 @@ def convert_md_to_html(md_path_str: str, html_path_str: str, title: str):
     padding: 2px 6px;
     border-radius: 4px;
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-    font-size: 13px;
+    font-size: 12.5px;
   }}
   pre {{
     background: #0f172a;
     color: #f8fafc;
-    padding: 16px;
-    border-radius: 8px;
+    padding: 14px;
+    border-radius: 6px;
     overflow-x: auto;
-    font-size: 12.5px;
-    line-height: 1.5;
+    font-size: 12px;
+    line-height: 1.45;
   }}
   pre code {{
     background: transparent;
@@ -105,9 +99,9 @@ def convert_md_to_html(md_path_str: str, html_path_str: str, title: str):
     padding: 0;
   }}
   blockquote {{
-    border-left: 4px solid #3b82f6;
+    border-left: 4px solid #2563eb;
     margin: 16px 0;
-    padding: 8px 18px;
+    padding: 8px 16px;
     background-color: #eff6ff;
     color: #1e3a8a;
     border-radius: 0 6px 6px 0;
@@ -115,16 +109,7 @@ def convert_md_to_html(md_path_str: str, html_path_str: str, title: str):
   hr {{
     border: none;
     border-top: 1px solid #e2e8f0;
-    margin: 28px 0;
-  }}
-  .badge {{
-    display: inline-block;
-    padding: 3px 8px;
-    background: #dbeafe;
-    color: #1e40af;
-    border-radius: 4px;
-    font-size: 12px;
-    font-weight: 600;
+    margin: 24px 0;
   }}
   @media print {{
     body {{
@@ -166,5 +151,6 @@ def convert_md_to_html(md_path_str: str, html_path_str: str, title: str):
     print(f"Generated: {html_path_str}")
 
 if __name__ == "__main__":
+    convert_md_to_html("ROUND1_RESEARCH_SUBMISSION.md", "ROUND1_RESEARCH_SUBMISSION.html", "Round 1 Research & Ideation Submission - The One Introduction Problem")
     convert_md_to_html("RESEARCH_PAPER.md", "RESEARCH_PAPER.html", "The One Introduction Problem - Academic Research Paper")
     convert_md_to_html("RESEARCH_NOTE.md", "RESEARCH_NOTE.html", "Sequential Reciprocal Matching - Round 1 Research Note")

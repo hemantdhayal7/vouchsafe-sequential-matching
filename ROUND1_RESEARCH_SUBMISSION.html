@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Round 1 Research & Ideation Submission - The One Introduction Problem</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+<style>
+  @page {
+    size: letter;
+    margin: 18mm;
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.65;
+    color: #1e293b;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 30px 20px;
+    background-color: #ffffff;
+  }
+  h1 {
+    color: #0f172a;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.3;
+    border-bottom: 2px solid #2563eb;
+    padding-bottom: 10px;
+    margin-top: 10px;
+  }
+  h2 {
+    color: #1e40af;
+    font-size: 18px;
+    font-weight: 600;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 6px;
+    margin-top: 28px;
+  }
+  h3 {
+    color: #1d4ed8;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 20px;
+  }
+  p, li {
+    font-size: 14px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 18px 0;
+    font-size: 13px;
+  }
+  th, td {
+    border: 1px solid #cbd5e1;
+    padding: 8px 12px;
+    text-align: left;
+  }
+  th {
+    background-color: #f1f5f9;
+    font-weight: 600;
+    color: #0f172a;
+  }
+  tr:nth-child(even) {
+    background-color: #f8fafc;
+  }
+  code {
+    background: #f1f5f9;
+    color: #0f172a;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-size: 12.5px;
+  }
+  pre {
+    background: #0f172a;
+    color: #f8fafc;
+    padding: 14px;
+    border-radius: 6px;
+    overflow-x: auto;
+    font-size: 12px;
+    line-height: 1.45;
+  }
+  pre code {
+    background: transparent;
+    color: inherit;
+    padding: 0;
+  }
+  blockquote {
+    border-left: 4px solid #2563eb;
+    margin: 16px 0;
+    padding: 8px 16px;
+    background-color: #eff6ff;
+    color: #1e3a8a;
+    border-radius: 0 6px 6px 0;
+  }
+  hr {
+    border: none;
+    border-top: 1px solid #e2e8f0;
+    margin: 24px 0;
+  }
+  @media print {
+    body {
+      max-width: 100%;
+      padding: 0;
+      color: #000;
+    }
+    h1 { color: #000; border-bottom: 2px solid #000; }
+    h2, h3 { color: #000; }
+    pre, blockquote, table { page-break-inside: avoid; }
+    a { color: #000; text-decoration: underline; }
+  }
+</style>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js"></script>
+</head>
+<body>
+<div id="content"></div>
+<script>
+  const markdown = "# ROUND 1 - RESEARCH & IDEATION\n## The One Introduction Problem: Sequential Reciprocal Matching Under Uncertainty\n\n**Team:** Team Sequential Optimizer  \n**Members:** Hemant Dhayal  \n**Repository:** [https://github.com/hemantdhayal7/vouchsafe-sequential-matching](https://github.com/hemantdhayal7/vouchsafe-sequential-matching)  \n**Spec:** Final participant specification v1.0.0 (5 Oct 2026)  \n**Submission Deadline:** 9 October 2026, 23:59 IST (via Official Google Form)\n\n> *Prepared from public repository specification and submission guidance. This document describes a research plan and decision-theoretic methodology for Round 1.*\n\n---\n\n### 1. Problem Understanding\n\nWe treat this as a **sequential decision problem under partial observability**, not a static ranking or unilateral recommendation problem.\n\nAt each decision step $t$, the policy observes only:\n- Currently available members $\\mathcal{M}_t$,\n- Known preferences with missingness/declined states $\\mathbf{x}_u^{\\text{obs}}$,\n- Past introduction records $\\mathcal{H}_t$, and\n- Feedback that has already become observable (acceptances, declines, dates, and post-date survey debriefs).\n\nThe system must decide:\n- **Clarify:** What to ask given a strict daily budget $B_t = 12$ units.\n- **Validate:** Which pairs are bidirectionally, reciprocally feasible.\n- **Allocate / Wait:** Whether to introduce now or preserve member availability for higher future value.\n\n**Core Research Question:** How to maximize high-quality mutual outcomes (Mutual Second-Meeting Intention, MSMI) while respecting hard reciprocal constraints, limited clarification budget, changing availability, and multi-week feedback delays?\n\n---\n\n### 2. Research Hypotheses\n\n- **H1 (Global Allocation Beats Greedy):** Independent top-$k$ selection causes negative externalities by blocking multiple other viable pairs. Maximum-weight non-overlapping matching over the feasible graph increases total expected value per batch.\n- **H2 (Selective Clarification Beats Indiscriminate):** Value of information (VOI) is uneven across the graph. Asking when the answer can change feasibility or resolve graph bottlenecks dominates uniform or fixed questionnaires.\n- **H3 (Constraint-First Improves Validity):** Hard constraints are strict binary gates. A high soft affinity score must never override a known reciprocal violation.\n- **H4 (Waiting Improves Long-Run Value):** Introducing a marginal pair today incurs an opportunity cost of locking both individuals for up to 20 days. An explicit wait action preserves option value for higher-affinity arrivals.\n\n---\n\n### 3. Proposed Decision Pipeline\n\n```\n                     ┌────────────────────────────────────────┐\n                     │          OBSERVE STATE s_t             │\n                     │  Available Members, History, Budget 12 │\n                     └───────────────────┬────────────────────┘\n                                         │\n                                         ▼\n                     ┌────────────────────────────────────────┐\n                     │     IDENTIFY UNKNOWN / DECLINED        │\n                     │  - Estimate Value of Information (VOI) │\n                     │  - Query high-value bundles (<=12 pts) │\n                     │  - Spatial co-clustering (sparse zones)│\n                     └───────────────────┬────────────────────┘\n                                         │\n                                         ▼\n                     ┌────────────────────────────────────────┐\n                     │          REFRESH STATE s_t'            │\n                     └───────────────────┬────────────────────┘\n                                         │\n                                         ▼\n                     ┌────────────────────────────────────────┐\n                     │        GENERATE CANDIDATE PAIRS        │\n                     └───────────────────┬────────────────────┘\n                                         │\n                                         ▼\n                     ┌────────────────────────────────────────┐\n                     │    RECIPROCAL HARD-CONSTRAINT FILTER   │\n                     │  - Infeasible: remove with reason code │\n                     │  - Unresolved: hold for queue          │\n                     │  - Feasible: continue                  │\n                     └───────────────────┬────────────────────┘\n                                         │\n                                         ▼\n                     ┌────────────────────────────────────────┐\n                     │       ESTIMATE PAIR VALUE V(A, B)      │\n                     │   Calibrated feature attribution score │\n                     └───────────────────┬────────────────────┘\n                                         │\n                                         ▼\n                     ┌────────────────────────────────────────┐\n                     │     GLOBAL NON-OVERLAPPING ALLOCATION  │\n                     │  - Solve Max-Weight Matching           │\n                     │  - Introduce selected disjoint pairs   │\n                     │  - Leave weak pairs unmatched = WAIT   │\n                     └───────────────────┬────────────────────┘\n                                         │\n                                         ▼\n                     ┌────────────────────────────────────────┐\n                     │   OBSERVE DELAYED FEEDBACK -> UPDATE   │\n                     └────────────────────────────────────────┘\n```\n\n---\n\n### 4. Reciprocal Feasibility & Auditability\n\nFor pair $(A, B)$ to be eligible, both directions must pass:\n\n$$\\text{Eligible}(A, B) \\iff \\text{Feasible}_{A \\to B} \\land \\text{Feasible}_{B \\to A}$$\n\n- **Known Hard Conflict (`blocked`):** Infeasible; must not be introduced regardless of soft score (e.g., age boundaries, gender/orientation mismatch, relationship structure conflict, smoking/children mismatch, zone incompatibility, duplicate pair, or outstanding active introduction).\n- **Missing Decisive Info (`unknown`):** Not feasible yet, not infeasible. Routed to the clarification queue.\n- **All Hard Checks Satisfied (`feasible`):** Candidate for valuation and matching.\n\n**Implementation Standard:** The system maintains tri-state statuses `feasible | blocked | unknown` with structured reason codes for auditability and verification.\n\n---\n\n### 5. Pair Valuation\n\nTransparent base valuation model:\n\n$$V(A, B) = w_1 \\cdot \\text{goal\\_match} + w_2 \\cdot \\text{pace\\_match} + w_3 \\cdot \\text{lifestyle\\_match} + w_4 \\cdot \\text{conversation\\_match} + w_5 \\cdot \\text{space\\_match} + w_6 \\cdot \\text{schedule\\_fit} - \\gamma \\cdot \\text{age\\_diff} + \\text{feedback\\_terms}$$\n\n- Weights are empirically tuned on historical interaction data with regularized estimation.\n- In probabilistic modeling, directional and joint targets are strictly distinguished:\n  - $P(A \\text{ accepts } B)$ vs. $P(B \\text{ accepts } A)$ vs. $P(\\text{Mutual Acceptance})$ vs. $P(\\text{MSMI} \\mid \\text{Date})$.\n\n---\n\n### 6. Global Allocation Strategy\n\nWe model available individuals as vertices $V_t$ and feasible pairs as edges $E_t$ weighted by compatibility score $V(A, B)$. Because each person can participate in at most one active introduction at any time:\n\n$$\\max_{\\mathcal{P}_t \\subseteq E_t} \\sum_{(u, v) \\in \\mathcal{P}_t} V(u, v) \\quad \\text{subject to} \\quad \\text{deg}(u) \\le 1 \\quad \\forall u \\in V_t$$\n\nThis formulation directly resolves the global opportunity cost dilemma: proposing a slightly lower-ranked edge can unlock multiple mutually exclusive high-value edges across the pool, outperforming greedy FIFO assignment.\n\n---\n\n### 7. Clarification Strategy (Value of Information)\n\nThe 12-unit daily budget is treated as a scarce informational resource:\n\n$$\\text{Priority}(q) = \\text{Expected Decision Improvement}(q) - \\text{cost}(q)$$\n\nwhere expected improvement measures:\n1. Flipping the feasibility of high-potential candidate edges.\n2. Resolving ranking ambiguity among top candidate pairs.\n3. Unblocking bottleneck nodes with high demographic degree.\n\n**Policy:** Hard-constraint bundles (cost 3) take precedence when unobserved hard traits stall candidate edges. Soft traits (cost 1) are queried when hard feasibility is established to differentiate competitive pairings. Declined/withheld responses are respected as informative signals without aggressive re-querying.\n\n---\n\n### 8. Waiting Policy\n\nWaiting is modeled as an **explicit, value-preserving action**. A candidate pair is left unmatched if:\n\n$$\\mathbb{E}[V_{\\text{now}}] < \\tau \\quad \\lor \\quad \\mathbb{E}[V_{\\text{future\\_preserved}}] - \\text{RiskOfLoss} > \\mathbb{E}[V_{\\text{now}}]$$\n\nwhere $\\tau$ is a calibrated feasibility and quality threshold. Waiting preserves participant availability for higher-affinity arrivals on subsequent days.\n\n---\n\n### 9. Planned Reference Baselines\n\n1. **Greedy Baseline:** Feasible pairs sorted by $V(A, B)$ and introduced sequentially in FIFO order (tests **H1**).\n2. **No-Clarification Baseline:** Never requests additional information ($B_t = 0$) and operates solely on initial profile observations (tests **H2**).\n3. **Random-Feasible Baseline:** Random pairing among valid feasible edges, establishing the non-informative feasibility lower bound.\n\n---\n\n### 10. Planned Experiments & Evaluation Suite\n\n1. **Greedy vs. Global Allocation:** Identical feasibility filter and scoring function with greedy allocator vs. maximum-weight bipartite matching.\n2. **Clarification Ablation:** Selective VOI clarification vs. uniform random querying vs. zero clarification.\n3. **Valuation Weight Ablation:** Uniform trait weights vs. regularized empirical feature weights.\n4. **Waiting Threshold Ablation:** Always-match eager policy vs. calibrated wait thresholds.\n5. **Scenario Robustness Grid:** Evaluated across all six official benchmark variants (`development`, `sparse`, `cold_start`, `delayed`, `shift`, `drift`) over independent pseudo-random seeds ($101, 102, 103$).\n\n**Metrics:**\n- **Primary:** Mutual Second-Meeting Intentions (MSMI) per 100 arrived members.\n- **Secondary:** Distinct member coverage, mutual acceptance rate, mean first-introduction wait time, unserved member rate, and clarification cost per MSMI.\n\n---\n\n### 11. Failure Modes & Mitigation Regimes\n\n- **Sparse Geographic Pools (12 Zones):** Low density causes edge fragmentation; mitigated via same-zone spatial co-clustering.\n- **Withheld / Declined Attributes:** Handled gracefully by tri-state logic without negative imputation.\n- **Delayed & Right-Censored Feedback:** Feedback separation between observed and pending states; horizon discounting for late-stage introductions.\n- **Distribution Shift & Non-Stationarity:** Transparent constraint gating and robust agreement-based symmetric scoring.\n\n---\n\n### 12. Expected Contribution\n\nA modular, constraint-first sequential matching framework integrating:\n1. Strict, auditable reciprocal feasibility gating.\n2. Value-of-Information (VOI) active clarification under strict daily budgets.\n3. Calibrated pairwise compatibility valuation.\n4. Global maximum-weight graph allocation.\n5. Explicit opportunity-cost waiting.\n\n---\n\n### 13. Limitations & Ethical Boundary\n\n- All personas, conversations, and interaction events in this evaluation are **synthetic**. Simulator outcomes test mathematical and operational decision dynamics, not genuine human emotional compatibility.\n- Real-world deployment requires informed user consent, strict privacy safeguards, transparent auditability, and fairness guarantees.\n\n---\n\n### 14. Checklist Before Submission\n\n- [x] **Team Name:** Team Sequential Optimizer\n- [x] **Team Member:** Hemant Dhayal\n- [x] **Repository URL:** `https://github.com/hemantdhayal7/vouchsafe-sequential-matching`\n- [x] **Hypotheses Formulated:** H1 (Global vs Greedy), H2 (VOI Clarification), H3 (Constraint-First), H4 (Option Value Waiting)\n- [x] **Feasibility Logic & Auditability:** Tri-state `feasible | blocked | unknown` with reason codes\n- [x] **Allocation, Clarification & Waiting Formulations:** Fully specified\n- [x] **Baselines & Experiments Defined:** Greedy, No-Asks, Random-Feasible across 6 scenario families\n- [x] **Risks, Failure Cases & Limitations Documented**\n- [x] **Format Compliant:** Ready for Markdown upload and PDF export\n";
+  document.getElementById('content').innerHTML = marked.parse(markdown);
+  document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$", right: "$", display: false},
+        {left: "\\(", right: "\\)", display: false},
+        {left: "\\[", right: "\\]", display: true}
+      ],
+      throwOnError: false
+    });
+  });
+</script>
+</body>
+</html>
