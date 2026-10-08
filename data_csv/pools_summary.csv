@@ -1,0 +1,11 @@
+pool_id,split,seed,snapshot_day,members_count,introductions_count,feedback_events_count
+public_01,train,20261000,30,200,57,123
+public_02,train,20261001,30,200,57,120
+public_03,train,20261002,30,200,56,125
+public_04,train,20261003,30,200,62,119
+public_05,train,20261004,30,200,85,178
+public_06,train,20261005,30,200,59,125
+public_07,validation,20261006,30,200,64,139
+public_08,validation,20261007,30,200,53,105
+public_09,development_test,20261008,30,200,55,113
+public_10,development_test,20261009,30,200,65,123

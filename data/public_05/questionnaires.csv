@@ -1,0 +1,201 @@
+pool_id,split,member_id,age,gender,city,q_age_range,q_conversations,q_emotional_availability,q_gender,q_has_children,q_lifestyle,q_location,q_partner_children,q_partner_smoking,q_relationship_goal,q_relationship_pace,q_relationship_structure,q_relocate,q_schedule,q_smoking,q_space_for_relationship,q_wants_children,q_who_to_meet
+public_05,train,syn_4d82c616c12ba2e70ddce92c2cb31a1d,33,woman,zone_a,23-38,playful,ready,woman,No,mixed,zone_a,Open to it,Not compatible for me,long_term,slow,Ethically non-monogamous,yes,"weekend_day, weekend_evening",No,moderate,I would like children,"non-binary people, women"
+public_05,train,syn_e4fef32cad521b8353e4ea2998891934,21,man,zone_b,18-30,,,man,No,,zone_b,Prefer not to,Open to it,,,Monogamous,,weekday_evening,No,,Unsure,women
+public_05,train,syn_0cf9e38720b54f715da4f4930ee5b602,29,non_binary,zone_a,22-36,practical,taking_time,non_binary,Yes,mixed,zone_a,Open to it,Open to it,long_term,quick,Monogamous,unsure,"weekend_evening, weekday_evening, weekend_day",Yes,ample,Unsure,women
+public_05,train,syn_d972a517765f7d71a85724b9e4c75331,33,non_binary,zone_a,30-43,,,non_binary,No,,zone_a,Open to it,Open to it,,,Monogamous,,weekend_day,No,,Unsure,men
+public_05,train,syn_b9dbac8a24901a6bdaf8cc2a7b6a2f20,25,man,zone_c,,,taking_time,man,,,zone_c,,,,,,,,,,,
+public_05,train,syn_b6369e410635234f5beb89e67f56ad47,23,woman,zone_a,18-32,,,woman,No,,zone_a,Open to it,Not compatible for me,,,Ethically non-monogamous,,"weekend_day, weekend_evening, weekday_evening",No,,Unsure,men
+public_05,train,syn_2f057a3c05913d701d608a8b13727219,31,man,zone_a,22-37,,,man,No,quiet,zone_a,Prefer not to,Not compatible for me,,,Monogamous,,weekend_day,No,limited,I do not want children,men
+public_05,train,syn_978d84b73395722ff8cbcc276f0c8b33,42,non_binary,zone_a,,practical,,non_binary,,,zone_a,,,,,,,,,,,
+public_05,train,syn_9b67b3d6b3dda13686dfab9594a9106a,21,woman,zone_a,18-28,,,woman,No,,zone_a,Open to it,Not compatible for me,,,Monogamous,,"weekday_evening, weekend_evening, weekend_day",No,,I would like children,"non-binary people, men"
+public_05,train,syn_763cc0d6b5feee5882701909f33a0777,33,man,zone_b,27-37,ideas,taking_time,man,No,mixed,zone_b,Prefer not to,Open to it,long_term,steady,Ethically non-monogamous,yes,"weekday_evening, weekend_day",No,ample,I do not want children,men
+public_05,train,syn_c30e399527bda9686461c7308d279fc8,30,man,zone_a,,,,man,,,zone_a,,,,,,,,,,,
+public_05,train,syn_ed73a5ffcde32d3d29c33a9428f04344,40,man,zone_a,35-44,practical,taking_time,man,No,quiet,zone_a,Open to it,Open to it,long_term,quick,Monogamous,unsure,"weekend_evening, weekend_day, weekday_evening",No,moderate,I do not want children,"women, non-binary people"
+public_05,train,syn_75273d30606bde7fe1c8835426415983,43,non_binary,zone_a,37-51,ideas,taking_time,non_binary,No,quiet,zone_a,Open to it,Not compatible for me,long_term,slow,Monogamous,yes,weekend_day,No,moderate,I do not want children,men
+public_05,train,syn_4f070b9e8e1937e0c4f475679f709212,26,woman,zone_b,23-36,practical,taking_time,woman,Yes,quiet,zone_b,Open to it,Open to it,exploring,quick,Monogamous,yes,weekend_evening,No,moderate,Unsure,"women, men"
+public_05,train,syn_9d4b22a3509e9628bf2eb72642ff8fca,35,woman,zone_a,,,,woman,,,zone_a,,,,,,,"weekend_evening, weekday_evening",,ample,,
+public_05,train,syn_ccf2ffc5c3c46880ac055917f6db70d1,25,man,zone_a,22-35,,,man,No,,zone_a,Prefer not to,Open to it,,,Ethically non-monogamous,,weekend_day,No,,I do not want children,"non-binary people, men"
+public_05,train,syn_2455179885e7a5cdd0d701736adad366,23,man,zone_c,18-31,ideas,ready,man,No,mixed,zone_c,Prefer not to,Open to it,long_term,quick,Monogamous,yes,"weekday_evening, weekend_evening, weekend_day",No,ample,Unsure,women
+public_05,train,syn_82fa9ce95c07be36c2ebb50140ceec2c,27,woman,zone_d,,,,woman,,,zone_d,Open to it,,,,,,,,,,
+public_05,train,syn_7e7c08f5de524098ea26553b935aa9fd,35,man,zone_a,,,,man,,,zone_a,,,,,,,,No,,,
+public_05,train,syn_32431bcfe5fcb7cce07e8b444d497c9c,23,man,zone_a,18-31,,taking_time,man,No,,zone_a,Prefer not to,Open to it,,,Monogamous,,"weekend_day, weekday_evening",No,,I would like children,non-binary people
+public_05,train,syn_d737c28d6653eeba0c3592b0f7d771b6,40,non_binary,zone_a,32-45,playful,ready,non_binary,No,social,zone_a,Open to it,Open to it,long_term,slow,Monogamous,no,"weekday_evening, weekend_evening",No,ample,I do not want children,women
+public_05,train,syn_955a8bdca2d80121eeda9df1c5b47f0d,25,non_binary,zone_a,21-31,,,non_binary,No,,zone_a,Prefer not to,Not compatible for me,exploring,,Monogamous,,weekend_day,No,,I do not want children,"men, non-binary people, women"
+public_05,train,syn_02cf44216af1e2c79c5a3a73414a9a37,23,woman,zone_c,,,,woman,,,zone_c,,,,,,,,,,,
+public_05,train,syn_dc0858337c792155030cc8fbec54eec3,32,man,zone_b,27-40,,,man,No,,zone_b,Prefer not to,Open to it,,quick,Monogamous,,"weekday_evening, weekend_evening",No,limited,I would like children,men
+public_05,train,syn_b093803435347802d9c3175e27e2866e,27,woman,zone_b,18-33,stories,ready,woman,No,mixed,zone_b,Prefer not to,Open to it,long_term,quick,Monogamous,yes,weekend_day,Occasionally,moderate,I do not want children,non-binary people
+public_05,train,syn_4264d383fb0631d5cff145422fa69c80,45,non_binary,zone_b,41-50,,,non_binary,No,,zone_b,Open to it,Open to it,,,Monogamous,,weekday_evening,Yes,,Unsure,non-binary people
+public_05,train,syn_4a7b247271af5287477fd12588891a87,31,man,zone_a,28-40,,,man,No,,zone_a,Open to it,Not compatible for me,,,Monogamous,no,"weekday_evening, weekend_evening, weekend_day",No,,I would like children,women
+public_05,train,syn_6c15a3ffcb3a9343f7707b57424043c8,25,woman,zone_a,,,,woman,,,zone_a,,Not compatible for me,,,,,,,,Unsure,
+public_05,train,syn_cc7c67b7f4a721e77c698b07c7d1c118,42,man,zone_c,,,,man,,quiet,zone_c,,,,,,,,,,,
+public_05,train,syn_afdaa75baf08ca510d1c9d73a1ee0983,30,man,zone_b,27-37,,,man,No,,zone_b,Prefer not to,Open to it,,,Monogamous,,"weekday_evening, weekend_evening",No,,I do not want children,men
+public_05,train,syn_3629e30d62cfc4882e782ef72b076973,39,woman,zone_a,29-42,stories,taking_time,woman,No,quiet,zone_a,Prefer not to,Open to it,long_term,steady,Monogamous,no,"weekend_evening, weekday_evening, weekend_day",Occasionally,moderate,I do not want children,women
+public_05,train,syn_c6bb9b0b7fc676c3f6005dcf8489ce2f,21,woman,zone_a,18-26,,,woman,No,,zone_a,Prefer not to,Not compatible for me,,,Monogamous,,weekend_evening,No,,I would like children,"women, men"
+public_05,train,syn_6b7eb0df5039395a52a881574eeade11,40,woman,zone_a,32-47,ideas,ready,woman,No,social,zone_a,Open to it,Not compatible for me,exploring,slow,Ethically non-monogamous,no,"weekday_evening, weekend_day",No,limited,I do not want children,"non-binary people, men"
+public_05,train,syn_daae70040111edbb049035d2a01a3d36,32,woman,zone_a,26-40,practical,taking_time,woman,Yes,mixed,zone_a,Open to it,Not compatible for me,exploring,slow,Monogamous,yes,weekend_evening,No,ample,I do not want children,men
+public_05,train,syn_3788539c7c8062cd932e2b427024d8ea,21,non_binary,zone_a,18-26,,,non_binary,No,,zone_a,Open to it,Open to it,,,Monogamous,,weekend_day,Occasionally,,Unsure,"men, non-binary people"
+public_05,train,syn_3dffb55ed3520520027fdc4a915ed11f,28,woman,zone_a,18-34,practical,taking_time,woman,No,quiet,zone_a,Open to it,Open to it,exploring,quick,Monogamous,unsure,"weekend_day, weekend_evening, weekday_evening",Occasionally,limited,I would like children,"women, men, non-binary people"
+public_05,train,syn_ddffc7d6a417e25916ed2eab0982b3c8,36,man,zone_c,33-41,,,man,No,quiet,zone_c,Open to it,Open to it,,steady,Monogamous,,"weekday_evening, weekend_evening",No,,I do not want children,non-binary people
+public_05,train,syn_3c2d2201a371a0b9864283944d5cd36f,43,woman,zone_b,,,taking_time,woman,,,zone_b,Prefer not to,,,,,,,,,,
+public_05,train,syn_0766aba8ddd61a47df3dbb63375de874,43,man,zone_a,34-50,,,man,No,,zone_a,Open to it,Open to it,long_term,,Monogamous,,weekend_evening,No,,I do not want children,non-binary people
+public_05,train,syn_054fd48deb87612dd7394511d3ca0e4c,27,woman,zone_a,,,,woman,,,zone_a,,,,,Monogamous,,,No,,,
+public_05,train,syn_ac039c8f01ab45ccabebd9c693b3f163,21,woman,zone_c,18-27,practical,taking_time,woman,No,quiet,zone_c,Open to it,Not compatible for me,long_term,slow,Monogamous,yes,"weekend_evening, weekend_day, weekday_evening",No,moderate,Unsure,"men, non-binary people"
+public_05,train,syn_67b0f6eb14762eb08d8efed7fa00de7a,37,woman,zone_a,33-42,practical,taking_time,woman,No,social,zone_a,Open to it,Not compatible for me,long_term,quick,Monogamous,unsure,"weekday_evening, weekend_day, weekend_evening",No,ample,I would like children,"women, men"
+public_05,train,syn_07083c28679f7103d6264390028364a4,40,man,zone_a,,,,man,,,zone_a,,Open to it,,,,,,,,I do not want children,
+public_05,train,syn_e00e10705d734ac68710874d558dc113,36,man,zone_a,26-42,practical,ready,man,No,mixed,zone_a,Open to it,Open to it,long_term,slow,Monogamous,unsure,"weekend_day, weekday_evening, weekend_evening",No,ample,I do not want children,women
+public_05,train,syn_7eee6a7a0275f890ef8c6385bb0ca86e,28,man,zone_a,21-37,practical,taking_time,man,No,mixed,zone_a,Open to it,Open to it,exploring,quick,Monogamous,yes,"weekend_day, weekend_evening",No,moderate,Unsure,"non-binary people, men, women"
+public_05,train,syn_f52d998f7b3adeed3355e5e1ddd5221d,32,woman,zone_a,25-40,stories,taking_time,woman,No,social,zone_a,Open to it,Open to it,exploring,steady,Monogamous,yes,"weekday_evening, weekend_evening",No,ample,Unsure,"non-binary people, men, women"
+public_05,train,syn_23170a23564440a1d4402bade96fbeaa,39,woman,zone_c,33-42,stories,ready,woman,Yes,mixed,zone_c,Prefer not to,Open to it,exploring,steady,Monogamous,unsure,"weekend_day, weekday_evening",No,limited,Unsure,"women, men, non-binary people"
+public_05,train,syn_1a481969a88df7b56a6cace6a02f1ba8,24,woman,zone_b,18-31,,,woman,No,,zone_b,Prefer not to,Not compatible for me,,,Ethically non-monogamous,,weekend_evening,Occasionally,,I would like children,"non-binary people, men"
+public_05,train,syn_802a9661e4dec844ab469c5ddf306a3b,41,man,zone_c,36-47,,,man,Yes,,zone_c,Open to it,Not compatible for me,,,Monogamous,,"weekend_evening, weekday_evening",No,,I do not want children,"men, women"
+public_05,train,syn_59ff3e1be8b80799f03c9a0adcc9a8f7,32,woman,zone_a,23-36,,,woman,No,,zone_a,Open to it,Not compatible for me,,slow,Monogamous,unsure,"weekday_evening, weekend_day, weekend_evening",No,,I would like children,women
+public_05,train,syn_7573951c8db89de2ea2181a4bc076eac,30,woman,zone_a,,,,woman,,,zone_a,,,,,,,,,,,
+public_05,train,syn_67f1cd2c6b5d5649500a58a76921d072,32,woman,zone_a,,playful,,woman,,,zone_a,,,,,,,,,,,
+public_05,train,syn_cdc819332566fb20af1b8c0ad44e902d,21,man,zone_b,,,,man,,social,zone_b,,,,,,,,,,,
+public_05,train,syn_4da096510159e7ed67bcea8df1fd9276,37,man,zone_a,34-41,stories,taking_time,man,No,social,zone_a,Open to it,Not compatible for me,exploring,steady,Monogamous,no,"weekend_evening, weekday_evening, weekend_day",No,ample,I would like children,"non-binary people, men"
+public_05,train,syn_36b3b69ccaea82d40d69f92264d42798,44,woman,zone_b,37-48,,,woman,Yes,,zone_b,Prefer not to,Not compatible for me,,,Monogamous,,"weekday_evening, weekend_evening",No,,Unsure,men
+public_05,train,syn_5863c08fc3f248b07a841a4d6511e6fc,40,man,zone_a,30-45,,,man,No,,zone_a,Prefer not to,Not compatible for me,,,Monogamous,,"weekend_evening, weekday_evening, weekend_day",No,,I would like children,non-binary people
+public_05,train,syn_3ff803cc4309f41eb7e9181d17112507,25,man,zone_a,18-28,,,man,No,,zone_a,Open to it,Not compatible for me,,,Monogamous,,"weekend_day, weekday_evening",No,,Unsure,"women, non-binary people"
+public_05,train,syn_84327dacf63af38987f23e5366b67a39,39,woman,zone_a,32-47,,,woman,No,,zone_a,Prefer not to,Open to it,,,Monogamous,,"weekend_evening, weekday_evening",Yes,,I would like children,non-binary people
+public_05,train,syn_6c730c5a5781af7f9e2b80ea146f1771,21,man,zone_a,18-29,ideas,taking_time,man,No,quiet,zone_a,Open to it,Not compatible for me,long_term,slow,Ethically non-monogamous,unsure,"weekend_evening, weekday_evening",No,moderate,I would like children,women
+public_05,train,syn_04e14bb2ba3ef2f338b787a065feb029,26,woman,zone_a,19-35,,,woman,No,,zone_a,Open to it,Open to it,,,Monogamous,,"weekday_evening, weekend_evening",No,,Unsure,women
+public_05,train,syn_ae494b453b2b66f7bbd82e220000b1f3,43,non_binary,zone_a,36-46,,,non_binary,No,,zone_a,Open to it,Open to it,,,Monogamous,,"weekend_day, weekend_evening, weekday_evening",Occasionally,,Unsure,"non-binary people, men"
+public_05,train,syn_ddaffd2702a325c0558038db0f273c41,27,man,zone_b,18-33,,,man,No,,zone_b,Open to it,Open to it,,,Monogamous,,weekend_evening,No,,Unsure,non-binary people
+public_05,train,syn_590a56783612729510c25839298559af,27,man,zone_b,24-33,stories,ready,man,No,social,zone_b,Open to it,Open to it,long_term,quick,Monogamous,unsure,weekday_evening,No,limited,Unsure,men
+public_05,train,syn_5c803391b28b1117467777a0829a576d,25,man,zone_a,20-30,ideas,taking_time,man,No,social,zone_a,Prefer not to,Open to it,exploring,steady,Ethically non-monogamous,no,"weekend_day, weekend_evening",No,limited,Unsure,"women, men"
+public_05,train,syn_f240b85afa436bd03fb4de411591df18,21,man,zone_d,18-26,ideas,taking_time,man,No,social,zone_d,Open to it,Not compatible for me,exploring,slow,Monogamous,yes,weekend_evening,No,moderate,Unsure,men
+public_05,train,syn_e29b5b1f70a68f0adc7b0335b4933968,35,woman,zone_c,,,taking_time,woman,,,zone_c,,,,,,,,,,,
+public_05,train,syn_f8eb160de9f82987145dcf9bd6c14111,30,woman,zone_a,25-38,stories,taking_time,woman,Yes,mixed,zone_a,Prefer not to,Open to it,exploring,steady,Monogamous,no,"weekday_evening, weekend_day",No,ample,I do not want children,women
+public_05,train,syn_2a8e12106c6bfd16aa7d0d3c6da4368c,34,non_binary,zone_a,31-41,,,non_binary,No,,zone_a,Prefer not to,Open to it,,,Monogamous,,weekday_evening,No,,I would like children,non-binary people
+public_05,train,syn_6cb3a1a2d28cb724e85391c8b33a2474,37,woman,zone_c,32-44,,,woman,No,,zone_c,Prefer not to,Not compatible for me,,,Monogamous,,"weekday_evening, weekend_day, weekend_evening",Yes,,I would like children,women
+public_05,train,syn_c9b1dedf88c66fe6a90185cc088852a1,44,non_binary,zone_b,36-48,,,non_binary,Yes,,zone_b,Open to it,Not compatible for me,,,Monogamous,,"weekday_evening, weekend_evening, weekend_day",No,,I would like children,women
+public_05,train,syn_6efe7a1f547d3314395b95ea2c5640e8,21,man,zone_a,18-31,ideas,taking_time,man,No,social,zone_a,Open to it,Open to it,exploring,slow,Monogamous,no,"weekend_evening, weekday_evening, weekend_day",No,ample,I would like children,"men, non-binary people, women"
+public_05,train,syn_06a496ac28346f4f90dc9e0c23ba0496,27,woman,zone_c,,,,woman,,,zone_c,,,,,,,,,,,
+public_05,train,syn_af5cc9d6c3bfbccd83cca5cdea67ce0e,36,man,zone_b,,,,man,,,zone_b,,,long_term,,,,,,,,
+public_05,train,syn_ab49c05b1330134e564b57c260479f91,34,woman,zone_a,,,,woman,,,zone_a,,,,,,,,,,,
+public_05,train,syn_6dfa6319d5843197875fd20f90b4f507,41,man,zone_a,36-49,practical,ready,man,No,,zone_a,Open to it,Open to it,,,Monogamous,,"weekend_day, weekend_evening, weekday_evening",No,,I would like children,"men, women"
+public_05,train,syn_7a82ffc35c0432bd4e3f7f4241e03acd,31,man,zone_a,,,,man,No,,zone_a,,,,,,,,,,,
+public_05,train,syn_157edf54df236ac31689f77dc50f5ff1,26,man,zone_a,18-36,practical,taking_time,man,No,social,zone_a,Prefer not to,Open to it,exploring,steady,Ethically non-monogamous,no,"weekend_day, weekend_evening, weekday_evening",No,limited,I do not want children,"men, women, non-binary people"
+public_05,train,syn_841449c5ffad42316e8555e53d6ee113,22,woman,zone_a,18-30,practical,taking_time,woman,Yes,mixed,zone_a,Prefer not to,Not compatible for me,exploring,slow,Monogamous,no,"weekend_day, weekend_evening",Yes,ample,I would like children,women
+public_05,train,syn_190795bfee98a70d200c23dfda99612e,44,woman,zone_b,34-54,,,woman,No,social,zone_b,Prefer not to,Not compatible for me,,,Monogamous,,"weekend_evening, weekend_day",No,limited,I do not want children,non-binary people
+public_05,train,syn_d79de6042e70b95fe2e49ff4a3c97750,44,woman,zone_a,,,,woman,,,zone_a,,,,,,,,,,,
+public_05,train,syn_d28061e75589e2ff0d7526ffe3542260,24,woman,zone_c,18-30,,ready,woman,No,,zone_c,Prefer not to,Not compatible for me,,,Monogamous,,"weekend_evening, weekday_evening",No,,I do not want children,"men, women"
+public_05,train,syn_7744f96c17d970a135531692e7b1a8ce,21,man,zone_a,18-28,ideas,taking_time,man,Yes,quiet,zone_a,Prefer not to,Not compatible for me,exploring,quick,Monogamous,unsure,weekday_evening,No,moderate,Unsure,women
+public_05,train,syn_bb7b6073c8216ea13025eadbfeb27f2c,42,man,zone_b,36-48,,,man,No,social,zone_b,Open to it,Open to it,,,Monogamous,,weekend_evening,No,,I would like children,"men, women"
+public_05,train,syn_a1d95c878877dda46e39bdf3bb99e9de,43,woman,zone_a,37-46,practical,,woman,No,,zone_a,Open to it,Open to it,,,Monogamous,,"weekend_evening, weekend_day",Occasionally,,I do not want children,non-binary people
+public_05,train,syn_d1ce45f75d93596c81ae980e72fec48f,35,woman,zone_a,27-39,stories,taking_time,woman,No,social,zone_a,Open to it,Open to it,exploring,quick,Monogamous,yes,weekday_evening,No,moderate,I would like children,"women, men, non-binary people"
+public_05,train,syn_ba5a6e52064350f93fdc195ad7412c31,32,non_binary,zone_a,,practical,ready,non_binary,,,zone_a,Open to it,,,,,,,,,,
+public_05,train,syn_4a30986e184de09da4d488e6dc42ec50,35,woman,zone_a,27-41,playful,taking_time,woman,Yes,social,zone_a,Prefer not to,Open to it,exploring,quick,Monogamous,yes,"weekend_day, weekend_evening",Yes,moderate,I do not want children,women
+public_05,train,syn_b30ea3f02d38b8923b5460bfef0e7833,40,non_binary,zone_a,36-47,practical,taking_time,non_binary,No,mixed,zone_a,Prefer not to,Open to it,exploring,steady,Ethically non-monogamous,unsure,"weekend_day, weekday_evening, weekend_evening",No,limited,I do not want children,"women, men, non-binary people"
+public_05,train,syn_43670244b5bb911d05e910c4e030edcf,22,man,zone_b,19-31,playful,,man,No,,zone_b,Prefer not to,Not compatible for me,,,Monogamous,,"weekend_day, weekend_evening, weekday_evening",Occasionally,,Unsure,"women, non-binary people, men"
+public_05,train,syn_7e2ebd1369674b173056ff24459bc0da,22,man,zone_a,18-32,,,man,Yes,,zone_a,Open to it,Open to it,,,Monogamous,,"weekend_evening, weekend_day",Occasionally,,Unsure,women
+public_05,train,syn_787ad7acef13f3b493a020f929c70389,46,man,zone_a,38-49,stories,ready,man,No,quiet,zone_a,Prefer not to,Open to it,long_term,quick,Monogamous,unsure,"weekday_evening, weekend_evening",Occasionally,moderate,I would like children,men
+public_05,train,syn_b9c2cd0590a5e5bf61c7c24e1a2318df,28,woman,zone_b,25-35,stories,taking_time,woman,No,social,zone_b,Prefer not to,Open to it,exploring,slow,Monogamous,yes,"weekend_day, weekend_evening, weekday_evening",Occasionally,ample,I would like children,men
+public_05,train,syn_4f2dafbc8751f88ee6612538e2e0ca0d,25,man,zone_c,,,,man,,,zone_c,,Open to it,,steady,Monogamous,,,,,,
+public_05,train,syn_6386031efeb54abdfa96637beb180642,30,woman,zone_a,25-36,ideas,ready,woman,No,quiet,zone_a,Prefer not to,Not compatible for me,long_term,quick,Monogamous,no,"weekday_evening, weekend_evening",No,limited,I would like children,"women, men, non-binary people"
+public_05,train,syn_52496f7b4b213a4470acc06072937b50,39,man,zone_d,,,,man,,,zone_d,,,,,,,,,,,
+public_05,train,syn_d14e8e3bc349a408cacb453a7abffef8,37,man,zone_a,31-41,practical,ready,man,No,quiet,zone_a,Open to it,Not compatible for me,long_term,slow,Monogamous,no,"weekday_evening, weekend_evening, weekend_day",No,limited,I do not want children,"women, men"
+public_05,train,syn_4a20fe000b050b1f78e4337959fe7ff3,34,man,zone_b,31-42,practical,taking_time,man,No,mixed,zone_b,Prefer not to,Open to it,exploring,steady,Monogamous,no,weekend_day,No,ample,I do not want children,men
+public_05,train,syn_1ab52096a2599eef55733d91101816d8,38,woman,zone_d,32-48,,ready,woman,No,,zone_d,Prefer not to,Open to it,,,Monogamous,,"weekday_evening, weekend_evening",No,moderate,I would like children,men
+public_05,train,syn_1c596186018460f2fdedf8f2afc0f2d6,30,man,zone_a,25-37,ideas,taking_time,man,No,mixed,zone_a,Open to it,Not compatible for me,exploring,steady,Monogamous,yes,"weekday_evening, weekend_day",No,moderate,I would like children,"men, non-binary people"
+public_05,train,syn_9fb3c613a617b17a29a795544a56781a,28,man,zone_a,23-35,,,man,No,quiet,zone_a,Open to it,Not compatible for me,,,Monogamous,,"weekend_day, weekday_evening, weekend_evening",No,,I would like children,women
+public_05,train,syn_0e10d543d7c883b4d5fe21bb13c7d538,46,woman,zone_b,41-55,ideas,ready,woman,No,mixed,zone_b,Open to it,Not compatible for me,exploring,quick,Monogamous,unsure,weekend_day,No,limited,I do not want children,"non-binary people, men, women"
+public_05,train,syn_dcb09e984e5539c712ed95a93ddac588,23,man,zone_a,,,,man,,,zone_a,,,,,,,,,,,
+public_05,train,syn_d761b7032f9134ed65d6f7e231eea094,40,man,zone_a,,,taking_time,man,,,zone_a,,,,,,,,,,,
+public_05,train,syn_a21dac98e81bdeef51810ffd59e9c10c,40,woman,zone_a,36-43,practical,ready,woman,No,quiet,zone_a,Prefer not to,Not compatible for me,exploring,quick,Monogamous,yes,weekend_evening,No,moderate,I would like children,non-binary people
+public_05,train,syn_e51b480ec2fcce67eb098546a918dce4,41,woman,zone_a,,,,woman,,,zone_a,,,,,,,,,,,
+public_05,train,syn_061c22f2a1663ca7819876a7005398da,46,woman,zone_b,42-52,ideas,,woman,No,,zone_b,Prefer not to,Open to it,long_term,,Monogamous,,"weekday_evening, weekend_evening, weekend_day",No,,I would like children,women
+public_05,train,syn_57075763fca69b7e34ab38ec4ef39c2c,34,woman,zone_a,31-41,stories,,woman,Yes,,zone_a,Prefer not to,Open to it,,,Monogamous,,"weekend_evening, weekend_day, weekday_evening",No,,I do not want children,men
+public_05,train,syn_244e1b26eaeb6e0a75a82c14c28d7592,22,man,zone_a,18-25,,,man,No,,zone_a,Prefer not to,Not compatible for me,,,Monogamous,,weekend_day,No,,I do not want children,women
+public_05,train,syn_5e078aca27ddafc9705fd96e65a05670,45,woman,zone_a,37-53,,,woman,No,,zone_a,Open to it,Open to it,,,Monogamous,,"weekend_day, weekday_evening",Yes,,I would like children,"non-binary people, women"
+public_05,train,syn_3fc8852271d444f92807c672bcf3cbc6,31,man,zone_b,,,,man,,,zone_b,,,,,,,,,limited,,
+public_05,train,syn_bcb4cd3462c6c653b18dbb6457218610,24,woman,zone_a,18-27,playful,taking_time,woman,No,social,zone_a,Prefer not to,Open to it,long_term,quick,Monogamous,no,"weekend_evening, weekend_day",No,moderate,Unsure,non-binary people
+public_05,train,syn_b072fc2d0f0700b3b89b0406d270ffa6,22,woman,zone_b,,,,woman,,,zone_b,,,,steady,,,,,,,"non-binary people, men, women"
+public_05,train,syn_5aada45e2fd45e7bcaece432b6e82445,34,woman,zone_b,,,,woman,,,zone_b,,,,,,unsure,,,limited,,
+public_05,train,syn_8d5790972d43a353eb3b88c9438fda87,22,man,zone_b,,,,man,No,,zone_b,,,,,,,,,,,
+public_05,train,syn_a799c85755c403dbcb0fff1d232470ba,23,non_binary,zone_c,18-29,playful,ready,non_binary,No,quiet,zone_c,Open to it,Open to it,long_term,steady,Monogamous,yes,"weekend_day, weekend_evening, weekday_evening",No,moderate,Unsure,women
+public_05,train,syn_0e49cd1aa9db30cb54a0f73e08c7d690,37,woman,zone_b,,,,woman,,,zone_b,,Not compatible for me,long_term,,,,,,ample,,
+public_05,train,syn_20015b9f913e9730ed42ef967dc1d64e,38,non_binary,zone_c,35-44,practical,,non_binary,No,,zone_c,Prefer not to,Not compatible for me,,,Monogamous,,"weekday_evening, weekend_day, weekend_evening",Occasionally,,I do not want children,"non-binary people, men, women"
+public_05,train,syn_12cb9eb179cd7526b1a1c5665fbc3d49,21,woman,zone_a,18-27,stories,ready,woman,No,social,zone_a,Prefer not to,Not compatible for me,exploring,slow,Ethically non-monogamous,no,weekend_day,No,limited,Unsure,"non-binary people, women, men"
+public_05,train,syn_9b1639c7077b8d46da5a9cfd4b905450,40,man,zone_a,36-48,stories,ready,man,No,quiet,zone_a,Prefer not to,Open to it,exploring,slow,Monogamous,unsure,"weekday_evening, weekend_evening, weekend_day",No,limited,Unsure,women
+public_05,train,syn_e4fa32ba2be23d4aa4199b4515992b51,42,man,zone_b,,,,man,,,zone_b,,,,,,,,,,,
+public_05,train,syn_d29a6278d743d319fb1a21038c35e709,45,woman,zone_a,35-53,playful,ready,woman,Yes,quiet,zone_a,Open to it,Not compatible for me,exploring,slow,Monogamous,no,"weekday_evening, weekend_evening, weekend_day",Occasionally,ample,I do not want children,men
+public_05,train,syn_ea8329bfa41c9122f997b0665abb1eef,42,man,zone_b,36-45,practical,ready,man,No,mixed,zone_b,Prefer not to,Not compatible for me,exploring,quick,Monogamous,yes,weekend_evening,No,limited,Unsure,men
+public_05,train,syn_33a874246d1c42f461268e0b51ba3a46,41,man,zone_a,,,,man,,,zone_a,,,,,,,,,,,
+public_05,train,syn_15fab56ae17aaa80819945470ce4ae6b,36,man,zone_d,32-40,stories,ready,man,Yes,social,zone_d,Open to it,Not compatible for me,long_term,slow,Monogamous,yes,"weekend_evening, weekend_day",No,ample,I would like children,men
+public_05,train,syn_491d2caa03074de80577fcadbbb7619c,31,man,zone_a,26-36,playful,taking_time,man,No,quiet,zone_a,Prefer not to,Open to it,long_term,slow,Monogamous,unsure,"weekday_evening, weekend_evening, weekend_day",No,moderate,Unsure,non-binary people
+public_05,train,syn_4e4f8a89ffdf53a7a00e056676176947,25,woman,zone_b,22-34,,,woman,No,,zone_b,Open to it,Open to it,,,Monogamous,,"weekend_day, weekend_evening",No,,I would like children,"women, men, non-binary people"
+public_05,train,syn_8c121bc9f96109b6f1c9ea42561f5822,27,man,zone_b,,,,man,,,zone_b,Open to it,,,,,,"weekend_evening, weekend_day",,,,women
+public_05,train,syn_85f03f87b222e44daa51ab7a6180a914,35,man,zone_b,,stories,,man,,,zone_b,,Not compatible for me,,,,,,,,,
+public_05,train,syn_7922fb0452da1d8695d6db5d04792f6e,21,woman,zone_a,,,,woman,,,zone_a,,,,,,,,,,,
+public_05,train,syn_a6346867188be48c086974c8aa3d5967,35,man,zone_a,26-40,,,man,Yes,,zone_a,Prefer not to,Open to it,,,Monogamous,,"weekday_evening, weekend_day, weekend_evening",No,limited,I would like children,men
+public_05,train,syn_7e4f49ce22a2dc79ca61ba0bc89f0f82,34,woman,zone_c,26-41,ideas,taking_time,woman,No,quiet,zone_c,Open to it,Not compatible for me,exploring,steady,Monogamous,unsure,"weekday_evening, weekend_day, weekend_evening",Occasionally,moderate,I would like children,"women, men"
+public_05,train,syn_8764c010aa61f8a9ccfb46ff1fa0b580,32,woman,zone_b,23-38,ideas,,woman,No,,zone_b,Open to it,Not compatible for me,,,Monogamous,,weekend_evening,Occasionally,,I would like children,women
+public_05,train,syn_726b7c8ef6aa864e6a4eb70627ee3621,21,man,zone_a,,stories,,man,,,zone_a,,,,,,,,,,,
+public_05,train,syn_18f7e35ae85cc3edebfa8a1d77eaddab,27,man,zone_a,19-30,ideas,ready,man,No,social,zone_a,Open to it,Open to it,exploring,steady,Monogamous,yes,"weekend_day, weekend_evening",No,limited,Unsure,"men, women"
+public_05,train,syn_4687a28a79af9d8525305f458b2ec26d,46,woman,zone_a,42-52,ideas,ready,woman,No,mixed,zone_a,Open to it,Not compatible for me,exploring,slow,Monogamous,unsure,"weekend_evening, weekend_day",Yes,moderate,I would like children,"men, women, non-binary people"
+public_05,train,syn_8496ad3d21cd3ab52ee03283d650c444,23,woman,zone_b,18-29,,,woman,No,,zone_b,Open to it,Open to it,long_term,,Ethically non-monogamous,,"weekend_day, weekend_evening",Yes,,Unsure,men
+public_05,train,syn_25d6dede2104945026e869f814c9504b,36,woman,zone_a,,,,woman,,,zone_a,,,,,,,,,,,
+public_05,train,syn_221878d393f071a58d95cb551a7526b0,27,woman,zone_b,18-31,practical,taking_time,woman,No,quiet,zone_b,Prefer not to,Not compatible for me,exploring,slow,Monogamous,yes,"weekend_day, weekend_evening, weekday_evening",No,ample,I would like children,men
+public_05,train,syn_5d3f0c4b3e05fa6c29ebd7bf84f2c597,43,man,zone_a,40-50,playful,ready,man,Yes,social,zone_a,Prefer not to,Open to it,long_term,slow,Monogamous,yes,"weekend_day, weekday_evening, weekend_evening",No,ample,I would like children,women
+public_05,train,syn_60a5c16ae8704e14d565a0f7b54dd591,46,man,zone_a,,,,man,,,zone_a,,,,,,,,,,,
+public_05,train,syn_a624629294f6a7e9435457352ce33a91,21,woman,zone_a,18-25,ideas,,woman,No,,zone_a,Open to it,Not compatible for me,,,Monogamous,,"weekday_evening, weekend_day",No,,I would like children,"women, non-binary people"
+public_05,train,syn_cedbd60a990e5fe8216dbc348dbb1a85,38,man,zone_a,,,,man,,,zone_a,,,,,,,,,,,
+public_05,train,syn_332eee9515e9c92bd04cc01bbf6c5aaf,26,woman,zone_b,20-30,playful,ready,woman,No,mixed,zone_b,Prefer not to,Open to it,exploring,steady,Monogamous,yes,weekend_day,No,moderate,I would like children,men
+public_05,train,syn_364616624d22c79ac208fc153996feb4,25,man,zone_a,,,,man,,,zone_a,,,,,,,,,,,
+public_05,train,syn_5bc5e92f5a1770f1137744c21d198ff0,34,man,zone_b,,playful,,man,,quiet,zone_b,,,,,,,,,,,
+public_05,train,syn_e33f3929bc7647b9ba0708a572c597e3,21,non_binary,zone_a,,,,non_binary,,,zone_a,,,,,,,,No,,,
+public_05,train,syn_db312ab6c0a68a9e3f8205fb47155607,30,man,zone_a,23-37,practical,taking_time,man,No,quiet,zone_a,Prefer not to,Open to it,long_term,quick,Ethically non-monogamous,yes,weekday_evening,No,moderate,I do not want children,women
+public_05,train,syn_3ed60798810b79d57f94d1a163f0932f,22,man,zone_a,18-30,,,man,No,,zone_a,Open to it,Not compatible for me,,quick,Monogamous,yes,"weekend_day, weekday_evening, weekend_evening",Occasionally,,I do not want children,women
+public_05,train,syn_128c659d3b1b14361c11eb80703113cb,35,man,zone_c,,,,man,,,zone_c,,,long_term,quick,,,"weekday_evening, weekend_day, weekend_evening",,,,
+public_05,train,syn_f4e3fea350c41d9fc32113e171b8069c,41,man,zone_b,,,,man,,,zone_b,,,,,,,,,,,
+public_05,train,syn_ebe1327c2c0d34ff395465a7592ce880,37,non_binary,zone_b,,,,non_binary,,,zone_b,Prefer not to,,long_term,,,,,,,,
+public_05,train,syn_1cb9225c5597b98981901d521d615c43,21,man,zone_c,,,,man,,,zone_c,,,,,,,,,,,
+public_05,train,syn_eada6f0a34c5cf0b2f06296178a0c151,43,woman,zone_a,35-50,practical,taking_time,woman,No,quiet,zone_a,Prefer not to,Not compatible for me,exploring,steady,Monogamous,yes,"weekend_day, weekend_evening",Occasionally,limited,I would like children,women
+public_05,train,syn_c5c234be2d2b17c85df8a1f1080fca59,44,non_binary,zone_a,35-47,playful,ready,non_binary,No,mixed,zone_a,Open to it,Not compatible for me,long_term,steady,Ethically non-monogamous,yes,"weekend_day, weekend_evening",No,limited,Unsure,women
+public_05,train,syn_4fb214022b5b807fbdbb02ac000383af,41,man,zone_a,,,,man,,,zone_a,Prefer not to,,,,,no,,,moderate,,
+public_05,train,syn_0c8744e4024204f6c04a07e714258d47,23,woman,zone_a,18-27,playful,taking_time,woman,Yes,mixed,zone_a,Open to it,Not compatible for me,long_term,quick,Monogamous,unsure,weekday_evening,No,ample,Unsure,women
+public_05,train,syn_955c1dc919b85ebe9dab25c3cb03cc28,44,woman,zone_a,,,,woman,,,zone_a,,,exploring,,,,,,,,
+public_05,train,syn_9e818592dff25be84dfecb7764c6c785,36,man,zone_b,,,,man,,,zone_b,Prefer not to,,,,,,,,,,
+public_05,train,syn_a242f7d8327c808790c0d4811d284b0f,38,man,zone_a,34-47,practical,taking_time,man,No,quiet,zone_a,Prefer not to,Open to it,exploring,steady,Monogamous,yes,"weekend_evening, weekend_day",No,limited,I do not want children,women
+public_05,train,syn_7ae803ded429acbd44d8e5bb1269c4be,46,woman,zone_c,43-49,practical,,woman,No,,zone_c,Open to it,Not compatible for me,,,Monogamous,,"weekend_evening, weekday_evening, weekend_day",No,,I do not want children,"women, men"
+public_05,train,syn_43142e7893095805ce58fe91b3c1b589,34,man,zone_a,,,,man,,quiet,zone_a,,,,,,,,,,I do not want children,
+public_05,train,syn_1eb72e4eb264c7bafa61862923f8ad8f,44,non_binary,zone_b,41-48,playful,ready,non_binary,No,quiet,zone_b,Prefer not to,Open to it,exploring,steady,Monogamous,yes,"weekend_evening, weekend_day",No,limited,I would like children,non-binary people
+public_05,train,syn_d01ad0eb624507f7e0acfcf4b966fd87,39,woman,zone_a,30-44,playful,,woman,No,,zone_a,Prefer not to,Not compatible for me,,,Monogamous,,"weekend_evening, weekend_day, weekday_evening",No,,Unsure,women
+public_05,train,syn_5d29bf4965fd1b1a436fb2e1f74e1305,46,woman,zone_b,,,,woman,,,zone_b,,,,,,,,,,,
+public_05,train,syn_da2080dae924856e3489933dbd919f65,37,woman,zone_a,27-43,stories,taking_time,woman,No,social,zone_a,Open to it,Open to it,long_term,steady,Monogamous,unsure,"weekend_day, weekday_evening, weekend_evening",No,ample,Unsure,non-binary people
+public_05,train,syn_96719852458841e93c6f2b1185738e89,23,man,zone_a,,,ready,man,,mixed,zone_a,,Not compatible for me,,,,,,,,,
+public_05,train,syn_919cfceaa6d9da68ff80e54bea0d3919,45,woman,zone_b,35-53,,,woman,No,,zone_b,Open to it,Not compatible for me,,,Ethically non-monogamous,,weekend_evening,No,,Unsure,women
+public_05,train,syn_5bebeccf17480908bbd31f4c4aac6692,45,man,zone_b,40-48,,,man,No,,zone_b,Prefer not to,Open to it,,,Monogamous,,"weekday_evening, weekend_day",No,,Unsure,women
+public_05,train,syn_21b698c1e3f90d1bd65d6ad2d9ef441f,35,man,zone_d,25-45,,,man,No,mixed,zone_d,Prefer not to,Not compatible for me,,,Monogamous,,"weekend_evening, weekend_day",No,,Unsure,women
+public_05,train,syn_9783d190677a0c555c717c760d1c92c7,43,man,zone_a,33-47,stories,ready,man,No,mixed,zone_a,Open to it,Open to it,long_term,slow,Monogamous,no,"weekend_day, weekend_evening, weekday_evening",No,ample,I would like children,"women, men"
+public_05,train,syn_e9f6b26036f922e1dc8f657dd3671afe,40,non_binary,zone_b,,,taking_time,non_binary,,,zone_b,,,long_term,,,,,,,,
+public_05,train,syn_578b39a83f01b0166432cb202fd75c89,41,man,zone_a,33-49,ideas,taking_time,man,No,mixed,zone_a,Prefer not to,Not compatible for me,exploring,quick,Monogamous,yes,"weekday_evening, weekend_day",No,limited,I would like children,non-binary people
+public_05,train,syn_ecf32b641332b65d333f47c3978a17c0,29,woman,zone_a,24-39,,,woman,No,,zone_a,Open to it,Open to it,,,Monogamous,,weekend_day,No,,I would like children,men
+public_05,train,syn_cc0b59ddd5b4a4303222062798f5833e,31,man,zone_a,,ideas,,man,,,zone_a,,,,,,,,,,,"women, non-binary people, men"
+public_05,train,syn_b3830f7ea43bc22b423b3e7f3ac3464d,41,woman,zone_a,,,,woman,,,zone_a,,,,,,,,,,,
+public_05,train,syn_e281f8859b0cd83692f377744a27d89d,27,woman,zone_c,,,,woman,,,zone_c,,,exploring,,,,,,,,"men, non-binary people"
+public_05,train,syn_1fc3e9684402019760bcc3042af2a81f,43,man,zone_b,,,,man,,,zone_b,,,,,,yes,,,,,
+public_05,train,syn_ac7daacb1112657649da5703f2491fb8,43,woman,zone_b,38-48,,,woman,Yes,,zone_b,Prefer not to,Not compatible for me,,,Monogamous,,weekend_day,No,,I would like children,women
+public_05,train,syn_8a5b3f43519670f510f41877fe956125,34,woman,zone_a,,,,woman,,,zone_a,,,,,,,,,,I do not want children,
+public_05,train,syn_63cfd88b7a8214239fa0cb2b84e40d46,27,man,zone_c,19-33,,,man,No,,zone_c,Prefer not to,Open to it,long_term,,Monogamous,,weekend_day,No,,I do not want children,women
+public_05,train,syn_ea1d2fca4324fb4bd34845e562dc19ed,42,non_binary,zone_a,,,,non_binary,No,,zone_a,,,exploring,,,,,No,,,
+public_05,train,syn_6b88d248294608aa27175c604b65f71a,33,woman,zone_a,,,,woman,,social,zone_a,,,long_term,,,,,,,,
+public_05,train,syn_3874834f8c41d2239a31fdac33f50e4a,34,man,zone_a,26-40,,,man,No,,zone_a,Open to it,Open to it,,,Monogamous,,"weekday_evening, weekend_day",No,,I would like children,men
+public_05,train,syn_e1727ffa02d837e496beb4e5f61f75e2,44,man,zone_a,,,,man,,,zone_a,,,,,,,,,,,
+public_05,train,syn_8f15f01517ad9b1f664750c54ede74a8,31,man,zone_a,22-39,,,man,No,,zone_a,Prefer not to,Open to it,,,Monogamous,,"weekend_evening, weekend_day",No,,I do not want children,men
+public_05,train,syn_6caf89d774a31ea42360843931b34295,34,woman,zone_a,26-39,,,woman,No,,zone_a,Prefer not to,Not compatible for me,,,Monogamous,,"weekday_evening, weekend_evening",Occasionally,,I would like children,non-binary people
+public_05,train,syn_e7313d20148b0ae24b283f75f679a9eb,43,woman,zone_a,38-47,ideas,ready,woman,No,social,zone_a,Open to it,Open to it,long_term,steady,Monogamous,no,weekend_evening,No,ample,I do not want children,"women, non-binary people"
+public_05,train,syn_b10bb6e023100c76a6e40692f904e30f,36,woman,zone_a,,stories,,woman,,,zone_a,,,,,,,,No,,,
+public_05,train,syn_18f948424eec53d257c5c8d8112eb9d1,45,woman,zone_b,42-52,,,woman,No,,zone_b,Open to it,Open to it,,,Monogamous,,"weekend_day, weekday_evening",No,,I do not want children,"non-binary people, women"
+public_05,train,syn_e6b57e07ceafd25bccb206402eb52056,35,woman,zone_a,32-42,ideas,taking_time,woman,No,,zone_a,Prefer not to,Open to it,,,Monogamous,,"weekday_evening, weekend_day, weekend_evening",No,,I do not want children,men
+public_05,train,syn_99546a3d5e1bc9cdce7538e9d86856ec,38,man,zone_c,33-45,,,man,No,mixed,zone_c,Open to it,Not compatible for me,,,Ethically non-monogamous,,weekend_day,Occasionally,ample,Unsure,"non-binary people, men"
+public_05,train,syn_a219cba0f701c38b753e78119a4da676,42,woman,zone_a,,,,woman,,,zone_a,,,,,,,,,,,
+public_05,train,syn_5a74933cfb6de83899d29a50df196891,37,woman,zone_a,28-46,,,woman,Yes,,zone_a,Open to it,Open to it,,,Monogamous,,weekend_day,Occasionally,,I would like children,women
+public_05,train,syn_0cc07e96f676a5d559cbc5e653e33702,45,man,zone_a,40-49,practical,ready,man,No,quiet,zone_a,Open to it,Open to it,exploring,quick,Ethically non-monogamous,unsure,"weekday_evening, weekend_day, weekend_evening",No,moderate,I do not want children,non-binary people
+public_05,train,syn_7eb690e09fe84b65dc6054bf5e4869ba,33,man,zone_c,,ideas,,man,,,zone_c,,,,,,,,,,I would like children,
+public_05,train,syn_f6dd627d1108f9a47392d79f0b9097f5,46,woman,zone_a,43-56,playful,ready,woman,No,quiet,zone_a,Open to it,Open to it,long_term,quick,Monogamous,unsure,"weekend_evening, weekend_day",No,moderate,Unsure,women
+public_05,train,syn_ddb510ae9fbcb6b7cc548470aa17e546,26,woman,zone_b,21-32,,,woman,No,,zone_b,Open to it,Open to it,,,Monogamous,,"weekend_day, weekend_evening",No,,Unsure,men
+public_05,train,syn_237249b8b5232cecb83d9c594987450c,22,man,zone_c,18-29,playful,taking_time,man,No,mixed,zone_c,Open to it,Open to it,long_term,slow,Monogamous,unsure,weekend_day,Occasionally,limited,I would like children,non-binary people
+public_05,train,syn_d3e2d8f77d4d02c0acbb83cb17567a95,39,woman,zone_a,32-43,,,woman,No,,zone_a,Prefer not to,Open to it,,,Monogamous,,"weekend_evening, weekend_day",Occasionally,,Unsure,women
+public_05,train,syn_277550b5faab54acac003db56a86e039,46,man,zone_c,,,,man,,,zone_c,,,,,,,,,,,

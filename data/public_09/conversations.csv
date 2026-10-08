@@ -1,0 +1,577 @@
+pool_id,split,member_id,observed_day,style,message_idx,role,content
+public_09,development_test,syn_3d77683b704738740b9c6ab04accd89d,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_3d77683b704738740b9c6ab04accd89d,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_3d77683b704738740b9c6ab04accd89d,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_3d77683b704738740b9c6ab04accd89d,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_3d77683b704738740b9c6ab04accd89d,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_3d77683b704738740b9c6ab04accd89d,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_3d77683b704738740b9c6ab04accd89d,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_3d77683b704738740b9c6ab04accd89d,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_14fd44220d5f56e0d4f017a3598f84ae,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_14fd44220d5f56e0d4f017a3598f84ae,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_14fd44220d5f56e0d4f017a3598f84ae,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_14fd44220d5f56e0d4f017a3598f84ae,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_14fd44220d5f56e0d4f017a3598f84ae,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_14fd44220d5f56e0d4f017a3598f84ae,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_14fd44220d5f56e0d4f017a3598f84ae,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_14fd44220d5f56e0d4f017a3598f84ae,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_ea1944eabf76fcfc92500830c916cccc,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_ea1944eabf76fcfc92500830c916cccc,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_ea1944eabf76fcfc92500830c916cccc,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_ea1944eabf76fcfc92500830c916cccc,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_ea1944eabf76fcfc92500830c916cccc,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_ea1944eabf76fcfc92500830c916cccc,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_ea1944eabf76fcfc92500830c916cccc,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_ea1944eabf76fcfc92500830c916cccc,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_cb3ff8321b992e7a53732e6fb99b3061,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_cb3ff8321b992e7a53732e6fb99b3061,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_cb3ff8321b992e7a53732e6fb99b3061,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_cb3ff8321b992e7a53732e6fb99b3061,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_cb3ff8321b992e7a53732e6fb99b3061,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_cb3ff8321b992e7a53732e6fb99b3061,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_cb3ff8321b992e7a53732e6fb99b3061,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_cb3ff8321b992e7a53732e6fb99b3061,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_a39f1db58aa063e9cb09f196f213c7e7,30,authored_templates_not_real_transcripts,0,assistant,How do you tend to spend free time?
+public_09,development_test,syn_a39f1db58aa063e9cb09f196f213c7e7,30,authored_templates_not_real_transcripts,1,user,I enjoy having plans with people.
+public_09,development_test,syn_c48dcbce4947952ae6405ef3d38cfa6a,30,authored_templates_not_real_transcripts,0,assistant,How do you tend to spend free time?
+public_09,development_test,syn_c48dcbce4947952ae6405ef3d38cfa6a,30,authored_templates_not_real_transcripts,1,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_c48dcbce4947952ae6405ef3d38cfa6a,30,authored_templates_not_real_transcripts,2,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_c48dcbce4947952ae6405ef3d38cfa6a,30,authored_templates_not_real_transcripts,3,user,I like hearing the stories behind things.
+public_09,development_test,syn_786fd20a1d2dc32af6b455a58d594f6b,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_786fd20a1d2dc32af6b455a58d594f6b,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_786fd20a1d2dc32af6b455a58d594f6b,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_786fd20a1d2dc32af6b455a58d594f6b,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_786fd20a1d2dc32af6b455a58d594f6b,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_786fd20a1d2dc32af6b455a58d594f6b,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_786fd20a1d2dc32af6b455a58d594f6b,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_786fd20a1d2dc32af6b455a58d594f6b,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_1060f8789d9efed5c96b62750c60a10c,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_1060f8789d9efed5c96b62750c60a10c,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_1060f8789d9efed5c96b62750c60a10c,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_1060f8789d9efed5c96b62750c60a10c,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_1060f8789d9efed5c96b62750c60a10c,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_1060f8789d9efed5c96b62750c60a10c,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_1060f8789d9efed5c96b62750c60a10c,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_1060f8789d9efed5c96b62750c60a10c,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_eba75cba86b2852f0600f883301abdb6,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_eba75cba86b2852f0600f883301abdb6,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_7991c13315834cd4562e98bb3b780697,30,authored_templates_not_real_transcripts,0,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_7991c13315834cd4562e98bb3b780697,30,authored_templates_not_real_transcripts,1,user,I enjoy working through practical questions.
+public_09,development_test,syn_28ae87cd79eb66e215ba129d922c7c0b,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_28ae87cd79eb66e215ba129d922c7c0b,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_28ae87cd79eb66e215ba129d922c7c0b,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_28ae87cd79eb66e215ba129d922c7c0b,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_28ae87cd79eb66e215ba129d922c7c0b,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_28ae87cd79eb66e215ba129d922c7c0b,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_28ae87cd79eb66e215ba129d922c7c0b,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_28ae87cd79eb66e215ba129d922c7c0b,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_e167d47f9a6da56a4d5759c2f482cf45,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_e167d47f9a6da56a4d5759c2f482cf45,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_e167d47f9a6da56a4d5759c2f482cf45,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_e167d47f9a6da56a4d5759c2f482cf45,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_e167d47f9a6da56a4d5759c2f482cf45,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_e167d47f9a6da56a4d5759c2f482cf45,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_e167d47f9a6da56a4d5759c2f482cf45,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_e167d47f9a6da56a4d5759c2f482cf45,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_954eea336cf58b771bb42ef5e50176fe,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_954eea336cf58b771bb42ef5e50176fe,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_954eea336cf58b771bb42ef5e50176fe,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_954eea336cf58b771bb42ef5e50176fe,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_954eea336cf58b771bb42ef5e50176fe,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_954eea336cf58b771bb42ef5e50176fe,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_954eea336cf58b771bb42ef5e50176fe,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_954eea336cf58b771bb42ef5e50176fe,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_611b4f999018ab87c5e4f02fdd3b8e35,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_611b4f999018ab87c5e4f02fdd3b8e35,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_611b4f999018ab87c5e4f02fdd3b8e35,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_611b4f999018ab87c5e4f02fdd3b8e35,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_611b4f999018ab87c5e4f02fdd3b8e35,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_611b4f999018ab87c5e4f02fdd3b8e35,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_611b4f999018ab87c5e4f02fdd3b8e35,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_611b4f999018ab87c5e4f02fdd3b8e35,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_84678ce338afaea457e03995df9782ec,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_84678ce338afaea457e03995df9782ec,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_84678ce338afaea457e03995df9782ec,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_84678ce338afaea457e03995df9782ec,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_84678ce338afaea457e03995df9782ec,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_84678ce338afaea457e03995df9782ec,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_84678ce338afaea457e03995df9782ec,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_84678ce338afaea457e03995df9782ec,30,authored_templates_not_real_transcripts,7,user,I enjoy working through practical questions.
+public_09,development_test,syn_48fe540526532891b1e5f0061d1d7fae,30,authored_templates_not_real_transcripts,0,assistant,How do you tend to spend free time?
+public_09,development_test,syn_48fe540526532891b1e5f0061d1d7fae,30,authored_templates_not_real_transcripts,1,user,I usually prefer a quiet evening.
+public_09,development_test,syn_01816ca4da2480b531cd84161c0e38f6,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_01816ca4da2480b531cd84161c0e38f6,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_01816ca4da2480b531cd84161c0e38f6,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_01816ca4da2480b531cd84161c0e38f6,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_01816ca4da2480b531cd84161c0e38f6,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_01816ca4da2480b531cd84161c0e38f6,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_01816ca4da2480b531cd84161c0e38f6,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_01816ca4da2480b531cd84161c0e38f6,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_98e94a52f25112977ad37af1219acaa2,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_98e94a52f25112977ad37af1219acaa2,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_98e94a52f25112977ad37af1219acaa2,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_98e94a52f25112977ad37af1219acaa2,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_98e94a52f25112977ad37af1219acaa2,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_98e94a52f25112977ad37af1219acaa2,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_98e94a52f25112977ad37af1219acaa2,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_98e94a52f25112977ad37af1219acaa2,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_b2abd96ee53a27f2c5e59d6561761225,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_b2abd96ee53a27f2c5e59d6561761225,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_b2abd96ee53a27f2c5e59d6561761225,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_b2abd96ee53a27f2c5e59d6561761225,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_b2abd96ee53a27f2c5e59d6561761225,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_b2abd96ee53a27f2c5e59d6561761225,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_b2abd96ee53a27f2c5e59d6561761225,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_b2abd96ee53a27f2c5e59d6561761225,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_c9a4ff69e51dbb357d46cac1e6d72ff1,30,authored_templates_not_real_transcripts,0,assistant,How do you tend to spend free time?
+public_09,development_test,syn_c9a4ff69e51dbb357d46cac1e6d72ff1,30,authored_templates_not_real_transcripts,1,user,I usually prefer a quiet evening.
+public_09,development_test,syn_c8034c0767d19d4a7a8516be577f5a49,30,authored_templates_not_real_transcripts,0,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_c8034c0767d19d4a7a8516be577f5a49,30,authored_templates_not_real_transcripts,1,user,I enjoy working through practical questions.
+public_09,development_test,syn_f3292a7d8b8962cc5ec50446dcdd1b7e,30,authored_templates_not_real_transcripts,0,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_f3292a7d8b8962cc5ec50446dcdd1b7e,30,authored_templates_not_real_transcripts,1,user,I like a playful conversation.
+public_09,development_test,syn_e6d8f0851c850de77efa67a3ebecc6ca,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_e6d8f0851c850de77efa67a3ebecc6ca,30,authored_templates_not_real_transcripts,1,user,A steady pace suits me.
+public_09,development_test,syn_31b5b656f14d66c10a517e4530f34094,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_31b5b656f14d66c10a517e4530f34094,30,authored_templates_not_real_transcripts,1,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_31b5b656f14d66c10a517e4530f34094,30,authored_templates_not_real_transcripts,2,assistant,How do you tend to spend free time?
+public_09,development_test,syn_31b5b656f14d66c10a517e4530f34094,30,authored_templates_not_real_transcripts,3,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_a9c5ea5a5b35df82c6e4cc4a44fa35ca,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_a9c5ea5a5b35df82c6e4cc4a44fa35ca,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_a9c5ea5a5b35df82c6e4cc4a44fa35ca,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_a9c5ea5a5b35df82c6e4cc4a44fa35ca,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_a9c5ea5a5b35df82c6e4cc4a44fa35ca,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_a9c5ea5a5b35df82c6e4cc4a44fa35ca,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_a9c5ea5a5b35df82c6e4cc4a44fa35ca,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_a9c5ea5a5b35df82c6e4cc4a44fa35ca,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_18329274ef644612aea9c6943287ac5e,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_18329274ef644612aea9c6943287ac5e,30,authored_templates_not_real_transcripts,1,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_3e31ee54b5c6410836bf96e80cdf4e36,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_3e31ee54b5c6410836bf96e80cdf4e36,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_3e31ee54b5c6410836bf96e80cdf4e36,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_3e31ee54b5c6410836bf96e80cdf4e36,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_3e31ee54b5c6410836bf96e80cdf4e36,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_3e31ee54b5c6410836bf96e80cdf4e36,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_3e31ee54b5c6410836bf96e80cdf4e36,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_3e31ee54b5c6410836bf96e80cdf4e36,30,authored_templates_not_real_transcripts,7,user,I enjoy working through practical questions.
+public_09,development_test,syn_2bc5690d46aeb0b365b1d446f6126f3a,30,authored_templates_not_real_transcripts,0,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_2bc5690d46aeb0b365b1d446f6126f3a,30,authored_templates_not_real_transcripts,1,user,I like hearing the stories behind things.
+public_09,development_test,syn_49184f8377e25febace8f0eb14ebfb2c,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_49184f8377e25febace8f0eb14ebfb2c,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_49184f8377e25febace8f0eb14ebfb2c,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_49184f8377e25febace8f0eb14ebfb2c,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_49184f8377e25febace8f0eb14ebfb2c,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_49184f8377e25febace8f0eb14ebfb2c,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_49184f8377e25febace8f0eb14ebfb2c,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_49184f8377e25febace8f0eb14ebfb2c,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_ca4ebbf1f6b1a6530862a9b58dd79c12,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_ca4ebbf1f6b1a6530862a9b58dd79c12,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_ca4ebbf1f6b1a6530862a9b58dd79c12,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_ca4ebbf1f6b1a6530862a9b58dd79c12,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_ca4ebbf1f6b1a6530862a9b58dd79c12,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_ca4ebbf1f6b1a6530862a9b58dd79c12,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_ca4ebbf1f6b1a6530862a9b58dd79c12,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_ca4ebbf1f6b1a6530862a9b58dd79c12,30,authored_templates_not_real_transcripts,7,user,I enjoy working through practical questions.
+public_09,development_test,syn_d79f8912b62eda42f1d1fedb4a0692de,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_d79f8912b62eda42f1d1fedb4a0692de,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_d79f8912b62eda42f1d1fedb4a0692de,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_d79f8912b62eda42f1d1fedb4a0692de,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_d79f8912b62eda42f1d1fedb4a0692de,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_d79f8912b62eda42f1d1fedb4a0692de,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_d79f8912b62eda42f1d1fedb4a0692de,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_d79f8912b62eda42f1d1fedb4a0692de,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_3897f1b0cc5984c872766b78ee052e7e,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_3897f1b0cc5984c872766b78ee052e7e,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_3897f1b0cc5984c872766b78ee052e7e,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_3897f1b0cc5984c872766b78ee052e7e,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_3897f1b0cc5984c872766b78ee052e7e,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_3897f1b0cc5984c872766b78ee052e7e,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_3897f1b0cc5984c872766b78ee052e7e,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_3897f1b0cc5984c872766b78ee052e7e,30,authored_templates_not_real_transcripts,7,user,I enjoy working through practical questions.
+public_09,development_test,syn_5a5595b3e18a3d3c16eaf95913a7ea93,30,authored_templates_not_real_transcripts,0,assistant,How do you tend to spend free time?
+public_09,development_test,syn_5a5595b3e18a3d3c16eaf95913a7ea93,30,authored_templates_not_real_transcripts,1,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_0762071899f970108e97e5f879f23b60,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_0762071899f970108e97e5f879f23b60,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_0762071899f970108e97e5f879f23b60,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_0762071899f970108e97e5f879f23b60,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_0762071899f970108e97e5f879f23b60,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_0762071899f970108e97e5f879f23b60,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_0762071899f970108e97e5f879f23b60,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_0762071899f970108e97e5f879f23b60,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_abd64af0283ffaed7c1a7178c9b82b06,30,authored_templates_not_real_transcripts,0,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_abd64af0283ffaed7c1a7178c9b82b06,30,authored_templates_not_real_transcripts,1,user,I like hearing the stories behind things.
+public_09,development_test,syn_24d43b3ab35a910d8bc5d95567437bbf,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_24d43b3ab35a910d8bc5d95567437bbf,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_24d43b3ab35a910d8bc5d95567437bbf,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_24d43b3ab35a910d8bc5d95567437bbf,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_24d43b3ab35a910d8bc5d95567437bbf,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_24d43b3ab35a910d8bc5d95567437bbf,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_24d43b3ab35a910d8bc5d95567437bbf,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_24d43b3ab35a910d8bc5d95567437bbf,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_f0fc617fb887bb02742188e27a6cedd1,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_f0fc617fb887bb02742188e27a6cedd1,30,authored_templates_not_real_transcripts,1,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_fd41191020e81449486bd66d57f5a965,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_fd41191020e81449486bd66d57f5a965,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_fd41191020e81449486bd66d57f5a965,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_fd41191020e81449486bd66d57f5a965,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_fd41191020e81449486bd66d57f5a965,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_fd41191020e81449486bd66d57f5a965,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_fd41191020e81449486bd66d57f5a965,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_fd41191020e81449486bd66d57f5a965,30,authored_templates_not_real_transcripts,7,user,I enjoy working through practical questions.
+public_09,development_test,syn_aff3636eea88cc36389ab342322d1b80,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_aff3636eea88cc36389ab342322d1b80,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_a4de8bb0451caa4b23ce4900ae2ea2ae,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_a4de8bb0451caa4b23ce4900ae2ea2ae,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_a4de8bb0451caa4b23ce4900ae2ea2ae,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_a4de8bb0451caa4b23ce4900ae2ea2ae,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_a4de8bb0451caa4b23ce4900ae2ea2ae,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_a4de8bb0451caa4b23ce4900ae2ea2ae,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_a4de8bb0451caa4b23ce4900ae2ea2ae,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_a4de8bb0451caa4b23ce4900ae2ea2ae,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_6fe83c7ff5e97710dbc341718e46bcd6,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_6fe83c7ff5e97710dbc341718e46bcd6,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_6fe83c7ff5e97710dbc341718e46bcd6,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_6fe83c7ff5e97710dbc341718e46bcd6,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_6fe83c7ff5e97710dbc341718e46bcd6,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_6fe83c7ff5e97710dbc341718e46bcd6,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_6fe83c7ff5e97710dbc341718e46bcd6,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_6fe83c7ff5e97710dbc341718e46bcd6,30,authored_templates_not_real_transcripts,7,user,I enjoy working through practical questions.
+public_09,development_test,syn_399815501e1007dfb1a713ea80f0e372,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_399815501e1007dfb1a713ea80f0e372,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_399815501e1007dfb1a713ea80f0e372,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_399815501e1007dfb1a713ea80f0e372,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_399815501e1007dfb1a713ea80f0e372,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_399815501e1007dfb1a713ea80f0e372,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_399815501e1007dfb1a713ea80f0e372,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_399815501e1007dfb1a713ea80f0e372,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_9b9eb23ba1764bf3ee3eb6b3427a9f87,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_9b9eb23ba1764bf3ee3eb6b3427a9f87,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_9b9eb23ba1764bf3ee3eb6b3427a9f87,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_9b9eb23ba1764bf3ee3eb6b3427a9f87,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_9b9eb23ba1764bf3ee3eb6b3427a9f87,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_9b9eb23ba1764bf3ee3eb6b3427a9f87,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_9b9eb23ba1764bf3ee3eb6b3427a9f87,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_9b9eb23ba1764bf3ee3eb6b3427a9f87,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_417aab129d07252e7523b04ddd848aaa,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_417aab129d07252e7523b04ddd848aaa,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_417aab129d07252e7523b04ddd848aaa,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_417aab129d07252e7523b04ddd848aaa,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_417aab129d07252e7523b04ddd848aaa,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_417aab129d07252e7523b04ddd848aaa,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_417aab129d07252e7523b04ddd848aaa,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_417aab129d07252e7523b04ddd848aaa,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_23fefada2c5b19650602df9e452b270c,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_23fefada2c5b19650602df9e452b270c,30,authored_templates_not_real_transcripts,1,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_be2c7e294013c733ac073fd0d21f3423,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_be2c7e294013c733ac073fd0d21f3423,30,authored_templates_not_real_transcripts,1,user,A steady pace suits me.
+public_09,development_test,syn_be2c7e294013c733ac073fd0d21f3423,30,authored_templates_not_real_transcripts,2,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_be2c7e294013c733ac073fd0d21f3423,30,authored_templates_not_real_transcripts,3,user,I enjoy talking about ideas.
+public_09,development_test,syn_92bc461db5199d18402828ef1512b58c,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_92bc461db5199d18402828ef1512b58c,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_92bc461db5199d18402828ef1512b58c,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_92bc461db5199d18402828ef1512b58c,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_92bc461db5199d18402828ef1512b58c,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_92bc461db5199d18402828ef1512b58c,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_92bc461db5199d18402828ef1512b58c,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_92bc461db5199d18402828ef1512b58c,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_9fa7dea552910d4a7e578e38347deaf4,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_9fa7dea552910d4a7e578e38347deaf4,30,authored_templates_not_real_transcripts,1,user,A steady pace suits me.
+public_09,development_test,syn_f2e79f8642e5542b23972d216bee6c9a,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_f2e79f8642e5542b23972d216bee6c9a,30,authored_templates_not_real_transcripts,1,user,A steady pace suits me.
+public_09,development_test,syn_50ea39299a1dd7bb8168828cf1cf5f09,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_50ea39299a1dd7bb8168828cf1cf5f09,30,authored_templates_not_real_transcripts,1,user,A steady pace suits me.
+public_09,development_test,syn_ca393031cc9c77939d82390aa8fa8cdc,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_ca393031cc9c77939d82390aa8fa8cdc,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_ca393031cc9c77939d82390aa8fa8cdc,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_ca393031cc9c77939d82390aa8fa8cdc,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_ca393031cc9c77939d82390aa8fa8cdc,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_ca393031cc9c77939d82390aa8fa8cdc,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_ca393031cc9c77939d82390aa8fa8cdc,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_ca393031cc9c77939d82390aa8fa8cdc,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_e6877263afb61e122bf9e421645d7e22,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_e6877263afb61e122bf9e421645d7e22,30,authored_templates_not_real_transcripts,1,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_fe848a0f29f2f6689a79b64a9bd16b2a,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_fe848a0f29f2f6689a79b64a9bd16b2a,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_fe848a0f29f2f6689a79b64a9bd16b2a,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_fe848a0f29f2f6689a79b64a9bd16b2a,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_fe848a0f29f2f6689a79b64a9bd16b2a,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_fe848a0f29f2f6689a79b64a9bd16b2a,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_fe848a0f29f2f6689a79b64a9bd16b2a,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_fe848a0f29f2f6689a79b64a9bd16b2a,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_aed3ea7e30e283ce82b4f69158763acd,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_aed3ea7e30e283ce82b4f69158763acd,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_aed3ea7e30e283ce82b4f69158763acd,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_aed3ea7e30e283ce82b4f69158763acd,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_aed3ea7e30e283ce82b4f69158763acd,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_aed3ea7e30e283ce82b4f69158763acd,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_aed3ea7e30e283ce82b4f69158763acd,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_aed3ea7e30e283ce82b4f69158763acd,30,authored_templates_not_real_transcripts,7,user,I enjoy working through practical questions.
+public_09,development_test,syn_d8bc26b013d3c09839c15aeb5f6b8cb2,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_d8bc26b013d3c09839c15aeb5f6b8cb2,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_d8bc26b013d3c09839c15aeb5f6b8cb2,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_d8bc26b013d3c09839c15aeb5f6b8cb2,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_d8bc26b013d3c09839c15aeb5f6b8cb2,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_d8bc26b013d3c09839c15aeb5f6b8cb2,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_d8bc26b013d3c09839c15aeb5f6b8cb2,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_d8bc26b013d3c09839c15aeb5f6b8cb2,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_a18815494442272660d4a49dc9ebbe5b,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_a18815494442272660d4a49dc9ebbe5b,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_a18815494442272660d4a49dc9ebbe5b,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_a18815494442272660d4a49dc9ebbe5b,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_a18815494442272660d4a49dc9ebbe5b,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_a18815494442272660d4a49dc9ebbe5b,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_a18815494442272660d4a49dc9ebbe5b,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_a18815494442272660d4a49dc9ebbe5b,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_7fead21b4bacec69a251e78421c2e96b,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_7fead21b4bacec69a251e78421c2e96b,30,authored_templates_not_real_transcripts,1,user,A steady pace suits me.
+public_09,development_test,syn_59905c9f292ee47d97bf1312a5fcaf13,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_59905c9f292ee47d97bf1312a5fcaf13,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_59905c9f292ee47d97bf1312a5fcaf13,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_59905c9f292ee47d97bf1312a5fcaf13,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_59905c9f292ee47d97bf1312a5fcaf13,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_59905c9f292ee47d97bf1312a5fcaf13,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_59905c9f292ee47d97bf1312a5fcaf13,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_59905c9f292ee47d97bf1312a5fcaf13,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_e81c2b2e2a7abaa4d982c68ee0d9e649,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_e81c2b2e2a7abaa4d982c68ee0d9e649,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_e81c2b2e2a7abaa4d982c68ee0d9e649,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_e81c2b2e2a7abaa4d982c68ee0d9e649,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_e81c2b2e2a7abaa4d982c68ee0d9e649,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_e81c2b2e2a7abaa4d982c68ee0d9e649,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_e81c2b2e2a7abaa4d982c68ee0d9e649,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_e81c2b2e2a7abaa4d982c68ee0d9e649,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_c522ab8effc0d0aea1b702381cbbd5e8,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_c522ab8effc0d0aea1b702381cbbd5e8,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_45e42e4c0c71b023b9c360f922081b70,30,authored_templates_not_real_transcripts,0,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_45e42e4c0c71b023b9c360f922081b70,30,authored_templates_not_real_transcripts,1,user,I like a playful conversation.
+public_09,development_test,syn_1fab3f903e7e09a11b8affb5bdc69d99,30,authored_templates_not_real_transcripts,0,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_1fab3f903e7e09a11b8affb5bdc69d99,30,authored_templates_not_real_transcripts,1,user,I enjoy talking about ideas.
+public_09,development_test,syn_74dd88b307dc5ec0cdb2258f78f8e0cc,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_74dd88b307dc5ec0cdb2258f78f8e0cc,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_74dd88b307dc5ec0cdb2258f78f8e0cc,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_74dd88b307dc5ec0cdb2258f78f8e0cc,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_74dd88b307dc5ec0cdb2258f78f8e0cc,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_74dd88b307dc5ec0cdb2258f78f8e0cc,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_74dd88b307dc5ec0cdb2258f78f8e0cc,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_74dd88b307dc5ec0cdb2258f78f8e0cc,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_fc97c5ac8a004415b4bdfb8ae82fda7b,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_fc97c5ac8a004415b4bdfb8ae82fda7b,30,authored_templates_not_real_transcripts,1,user,A steady pace suits me.
+public_09,development_test,syn_bc0a0129a81304a8b5e02870858a57ac,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_bc0a0129a81304a8b5e02870858a57ac,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_bc0a0129a81304a8b5e02870858a57ac,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_bc0a0129a81304a8b5e02870858a57ac,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_bc0a0129a81304a8b5e02870858a57ac,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_bc0a0129a81304a8b5e02870858a57ac,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_bc0a0129a81304a8b5e02870858a57ac,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_bc0a0129a81304a8b5e02870858a57ac,30,authored_templates_not_real_transcripts,7,user,I enjoy working through practical questions.
+public_09,development_test,syn_72fa7f3a49551b8406189406fe067a80,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_72fa7f3a49551b8406189406fe067a80,30,authored_templates_not_real_transcripts,1,user,A steady pace suits me.
+public_09,development_test,syn_72fa7f3a49551b8406189406fe067a80,30,authored_templates_not_real_transcripts,2,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_72fa7f3a49551b8406189406fe067a80,30,authored_templates_not_real_transcripts,3,user,I like a playful conversation.
+public_09,development_test,syn_7ced31fcb0b3bd40a02865a74a6fcb92,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_7ced31fcb0b3bd40a02865a74a6fcb92,30,authored_templates_not_real_transcripts,1,user,A steady pace suits me.
+public_09,development_test,syn_8c39122a398b4fbbc69c4483b741a20a,30,authored_templates_not_real_transcripts,0,assistant,How do you tend to spend free time?
+public_09,development_test,syn_8c39122a398b4fbbc69c4483b741a20a,30,authored_templates_not_real_transcripts,1,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_b923a686ac867c0fccf2c9cc2cbde8c7,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_b923a686ac867c0fccf2c9cc2cbde8c7,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_b923a686ac867c0fccf2c9cc2cbde8c7,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_b923a686ac867c0fccf2c9cc2cbde8c7,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_b923a686ac867c0fccf2c9cc2cbde8c7,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_b923a686ac867c0fccf2c9cc2cbde8c7,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_b923a686ac867c0fccf2c9cc2cbde8c7,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_b923a686ac867c0fccf2c9cc2cbde8c7,30,authored_templates_not_real_transcripts,7,user,I enjoy working through practical questions.
+public_09,development_test,syn_46153b3e21490c0dcdddff4ea33fa5d1,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_46153b3e21490c0dcdddff4ea33fa5d1,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_46153b3e21490c0dcdddff4ea33fa5d1,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_46153b3e21490c0dcdddff4ea33fa5d1,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_46153b3e21490c0dcdddff4ea33fa5d1,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_46153b3e21490c0dcdddff4ea33fa5d1,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_46153b3e21490c0dcdddff4ea33fa5d1,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_46153b3e21490c0dcdddff4ea33fa5d1,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_154fa2c92626e9e40e5ef8d9410be038,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_154fa2c92626e9e40e5ef8d9410be038,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_154fa2c92626e9e40e5ef8d9410be038,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_154fa2c92626e9e40e5ef8d9410be038,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_a005fdbc59c75076c16892b788a008e3,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_a005fdbc59c75076c16892b788a008e3,30,authored_templates_not_real_transcripts,1,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_ba5b3cf28cc23e4a97fa0612a8050df5,30,authored_templates_not_real_transcripts,0,assistant,How do you tend to spend free time?
+public_09,development_test,syn_ba5b3cf28cc23e4a97fa0612a8050df5,30,authored_templates_not_real_transcripts,1,user,I enjoy having plans with people.
+public_09,development_test,syn_4f6aec2c794cd3961ebf9d3a11200acd,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_4f6aec2c794cd3961ebf9d3a11200acd,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_6a0a70e102a42456541ad3688e00967c,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_6a0a70e102a42456541ad3688e00967c,30,authored_templates_not_real_transcripts,1,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_01639d571d85dc2ea9a0bad313cbb6fa,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_01639d571d85dc2ea9a0bad313cbb6fa,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_01639d571d85dc2ea9a0bad313cbb6fa,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_01639d571d85dc2ea9a0bad313cbb6fa,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_01639d571d85dc2ea9a0bad313cbb6fa,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_01639d571d85dc2ea9a0bad313cbb6fa,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_01639d571d85dc2ea9a0bad313cbb6fa,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_01639d571d85dc2ea9a0bad313cbb6fa,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_7943db275fb55131bbdb6929da1bc57f,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_7943db275fb55131bbdb6929da1bc57f,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_7943db275fb55131bbdb6929da1bc57f,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_7943db275fb55131bbdb6929da1bc57f,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_7943db275fb55131bbdb6929da1bc57f,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_7943db275fb55131bbdb6929da1bc57f,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_7943db275fb55131bbdb6929da1bc57f,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_7943db275fb55131bbdb6929da1bc57f,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_395b967214926c08e0140e09fe6780da,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_395b967214926c08e0140e09fe6780da,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_395b967214926c08e0140e09fe6780da,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_395b967214926c08e0140e09fe6780da,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_395b967214926c08e0140e09fe6780da,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_395b967214926c08e0140e09fe6780da,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_395b967214926c08e0140e09fe6780da,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_395b967214926c08e0140e09fe6780da,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_899dc40289039e438025aa0395b0976f,30,authored_templates_not_real_transcripts,0,assistant,How do you tend to spend free time?
+public_09,development_test,syn_899dc40289039e438025aa0395b0976f,30,authored_templates_not_real_transcripts,1,user,I enjoy having plans with people.
+public_09,development_test,syn_7ea24ae1bc6dd1bf483a695694b4de60,30,authored_templates_not_real_transcripts,0,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_7ea24ae1bc6dd1bf483a695694b4de60,30,authored_templates_not_real_transcripts,1,user,I enjoy working through practical questions.
+public_09,development_test,syn_b4e4ce7c2881670a12de4cc507059e9e,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_b4e4ce7c2881670a12de4cc507059e9e,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_b4e4ce7c2881670a12de4cc507059e9e,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_b4e4ce7c2881670a12de4cc507059e9e,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_b4e4ce7c2881670a12de4cc507059e9e,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_b4e4ce7c2881670a12de4cc507059e9e,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_b4e4ce7c2881670a12de4cc507059e9e,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_b4e4ce7c2881670a12de4cc507059e9e,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_52bea84dd5f87d01e4cb9f99f1d15eeb,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_52bea84dd5f87d01e4cb9f99f1d15eeb,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_52bea84dd5f87d01e4cb9f99f1d15eeb,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_52bea84dd5f87d01e4cb9f99f1d15eeb,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_52bea84dd5f87d01e4cb9f99f1d15eeb,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_52bea84dd5f87d01e4cb9f99f1d15eeb,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_52bea84dd5f87d01e4cb9f99f1d15eeb,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_52bea84dd5f87d01e4cb9f99f1d15eeb,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_e42956bd3ad3d0ab962031c145e0e8f5,30,authored_templates_not_real_transcripts,0,assistant,What pace feels comfortable?
+public_09,development_test,syn_e42956bd3ad3d0ab962031c145e0e8f5,30,authored_templates_not_real_transcripts,1,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_4fe3ee745aa0a0513d715c1f5e333848,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_4fe3ee745aa0a0513d715c1f5e333848,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_03337154da48057c40de9e9d5daf2498,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_03337154da48057c40de9e9d5daf2498,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_03337154da48057c40de9e9d5daf2498,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_03337154da48057c40de9e9d5daf2498,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_03337154da48057c40de9e9d5daf2498,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_03337154da48057c40de9e9d5daf2498,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_03337154da48057c40de9e9d5daf2498,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_03337154da48057c40de9e9d5daf2498,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_938533b6ed1b3352a3eeee11e0e010f7,30,authored_templates_not_real_transcripts,0,assistant,How do you tend to spend free time?
+public_09,development_test,syn_938533b6ed1b3352a3eeee11e0e010f7,30,authored_templates_not_real_transcripts,1,user,I enjoy having plans with people.
+public_09,development_test,syn_938533b6ed1b3352a3eeee11e0e010f7,30,authored_templates_not_real_transcripts,2,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_938533b6ed1b3352a3eeee11e0e010f7,30,authored_templates_not_real_transcripts,3,user,I enjoy talking about ideas.
+public_09,development_test,syn_49aa062858abc6e6de8783ba7f24bef3,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_49aa062858abc6e6de8783ba7f24bef3,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_49aa062858abc6e6de8783ba7f24bef3,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_49aa062858abc6e6de8783ba7f24bef3,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_49aa062858abc6e6de8783ba7f24bef3,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_49aa062858abc6e6de8783ba7f24bef3,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_49aa062858abc6e6de8783ba7f24bef3,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_49aa062858abc6e6de8783ba7f24bef3,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_366a357dac719d4d13550d2f27a903ec,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_366a357dac719d4d13550d2f27a903ec,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_366a357dac719d4d13550d2f27a903ec,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_366a357dac719d4d13550d2f27a903ec,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_366a357dac719d4d13550d2f27a903ec,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_366a357dac719d4d13550d2f27a903ec,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_366a357dac719d4d13550d2f27a903ec,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_366a357dac719d4d13550d2f27a903ec,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_2498b1dc356de003c3825324d212befd,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_2498b1dc356de003c3825324d212befd,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_2498b1dc356de003c3825324d212befd,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_2498b1dc356de003c3825324d212befd,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_2498b1dc356de003c3825324d212befd,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_2498b1dc356de003c3825324d212befd,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_2498b1dc356de003c3825324d212befd,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_2498b1dc356de003c3825324d212befd,30,authored_templates_not_real_transcripts,7,user,I enjoy working through practical questions.
+public_09,development_test,syn_664d91e54ac84101c9455adeb1f76e58,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_664d91e54ac84101c9455adeb1f76e58,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_664d91e54ac84101c9455adeb1f76e58,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_664d91e54ac84101c9455adeb1f76e58,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_664d91e54ac84101c9455adeb1f76e58,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_664d91e54ac84101c9455adeb1f76e58,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_664d91e54ac84101c9455adeb1f76e58,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_664d91e54ac84101c9455adeb1f76e58,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_a9522305356dba8541a258a4a5ff316d,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_a9522305356dba8541a258a4a5ff316d,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_a9522305356dba8541a258a4a5ff316d,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_a9522305356dba8541a258a4a5ff316d,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_a9522305356dba8541a258a4a5ff316d,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_a9522305356dba8541a258a4a5ff316d,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_a9522305356dba8541a258a4a5ff316d,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_a9522305356dba8541a258a4a5ff316d,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_730902ccb1e8843f663686decde0103d,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_730902ccb1e8843f663686decde0103d,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_730902ccb1e8843f663686decde0103d,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_730902ccb1e8843f663686decde0103d,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_730902ccb1e8843f663686decde0103d,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_730902ccb1e8843f663686decde0103d,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_730902ccb1e8843f663686decde0103d,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_730902ccb1e8843f663686decde0103d,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_8dca0eb1396466d541b4cb63c7698d9e,30,authored_templates_not_real_transcripts,0,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_8dca0eb1396466d541b4cb63c7698d9e,30,authored_templates_not_real_transcripts,1,user,I like a playful conversation.
+public_09,development_test,syn_28da624569efb20e864cd88321526064,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_28da624569efb20e864cd88321526064,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_e2e181499dcf7908fdef35663b9adb7e,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_e2e181499dcf7908fdef35663b9adb7e,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_e2e181499dcf7908fdef35663b9adb7e,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_e2e181499dcf7908fdef35663b9adb7e,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_e2e181499dcf7908fdef35663b9adb7e,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_e2e181499dcf7908fdef35663b9adb7e,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_e2e181499dcf7908fdef35663b9adb7e,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_e2e181499dcf7908fdef35663b9adb7e,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_6a6823ceee9dd6b79387201ffb471503,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_6a6823ceee9dd6b79387201ffb471503,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_6a6823ceee9dd6b79387201ffb471503,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_6a6823ceee9dd6b79387201ffb471503,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_6a6823ceee9dd6b79387201ffb471503,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_6a6823ceee9dd6b79387201ffb471503,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_6a6823ceee9dd6b79387201ffb471503,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_6a6823ceee9dd6b79387201ffb471503,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_8e937cd663d14a374d74504b2167f196,30,authored_templates_not_real_transcripts,0,assistant,How do you tend to spend free time?
+public_09,development_test,syn_8e937cd663d14a374d74504b2167f196,30,authored_templates_not_real_transcripts,1,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_8b671418e39d54beeba99d9a5d38fe6d,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_8b671418e39d54beeba99d9a5d38fe6d,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_8b671418e39d54beeba99d9a5d38fe6d,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_8b671418e39d54beeba99d9a5d38fe6d,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_8b671418e39d54beeba99d9a5d38fe6d,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_8b671418e39d54beeba99d9a5d38fe6d,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_8b671418e39d54beeba99d9a5d38fe6d,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_8b671418e39d54beeba99d9a5d38fe6d,30,authored_templates_not_real_transcripts,7,user,I like hearing the stories behind things.
+public_09,development_test,syn_c0a3d94528ea4032ce611009fcbac175,30,authored_templates_not_real_transcripts,0,assistant,How do you tend to spend free time?
+public_09,development_test,syn_c0a3d94528ea4032ce611009fcbac175,30,authored_templates_not_real_transcripts,1,user,I enjoy having plans with people.
+public_09,development_test,syn_5a23a537897a87e452157802beeeb09e,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_5a23a537897a87e452157802beeeb09e,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_a6ac730a7422dc42e543fc3d84f9da31,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_a6ac730a7422dc42e543fc3d84f9da31,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_a6ac730a7422dc42e543fc3d84f9da31,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_a6ac730a7422dc42e543fc3d84f9da31,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_a6ac730a7422dc42e543fc3d84f9da31,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_a6ac730a7422dc42e543fc3d84f9da31,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_a6ac730a7422dc42e543fc3d84f9da31,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_a6ac730a7422dc42e543fc3d84f9da31,30,authored_templates_not_real_transcripts,7,user,I enjoy working through practical questions.
+public_09,development_test,syn_9765e449ae215cfcc69e599f86ffbd9f,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_9765e449ae215cfcc69e599f86ffbd9f,30,authored_templates_not_real_transcripts,1,user,I am still working out what I want.
+public_09,development_test,syn_d6b73be38eda52db3025a5b96af5b58e,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_d6b73be38eda52db3025a5b96af5b58e,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_d6b73be38eda52db3025a5b96af5b58e,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_d6b73be38eda52db3025a5b96af5b58e,30,authored_templates_not_real_transcripts,3,user,I am comfortable meeting fairly soon.
+public_09,development_test,syn_d6b73be38eda52db3025a5b96af5b58e,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_d6b73be38eda52db3025a5b96af5b58e,30,authored_templates_not_real_transcripts,5,user,I like a mixture of quiet time and seeing people.
+public_09,development_test,syn_d6b73be38eda52db3025a5b96af5b58e,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_d6b73be38eda52db3025a5b96af5b58e,30,authored_templates_not_real_transcripts,7,user,I enjoy talking about ideas.
+public_09,development_test,syn_bf058d621c18e8c309413475a63439c0,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_bf058d621c18e8c309413475a63439c0,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_bf058d621c18e8c309413475a63439c0,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_bf058d621c18e8c309413475a63439c0,30,authored_templates_not_real_transcripts,3,user,I prefer to get to know someone gradually.
+public_09,development_test,syn_bf058d621c18e8c309413475a63439c0,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_bf058d621c18e8c309413475a63439c0,30,authored_templates_not_real_transcripts,5,user,I enjoy having plans with people.
+public_09,development_test,syn_bf058d621c18e8c309413475a63439c0,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_bf058d621c18e8c309413475a63439c0,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
+public_09,development_test,syn_5101ee98621b0a0aa0efcc363c546da1,30,authored_templates_not_real_transcripts,0,assistant,What are you hoping to find?
+public_09,development_test,syn_5101ee98621b0a0aa0efcc363c546da1,30,authored_templates_not_real_transcripts,1,user,I would like to build a lasting relationship.
+public_09,development_test,syn_5101ee98621b0a0aa0efcc363c546da1,30,authored_templates_not_real_transcripts,2,assistant,What pace feels comfortable?
+public_09,development_test,syn_5101ee98621b0a0aa0efcc363c546da1,30,authored_templates_not_real_transcripts,3,user,A steady pace suits me.
+public_09,development_test,syn_5101ee98621b0a0aa0efcc363c546da1,30,authored_templates_not_real_transcripts,4,assistant,How do you tend to spend free time?
+public_09,development_test,syn_5101ee98621b0a0aa0efcc363c546da1,30,authored_templates_not_real_transcripts,5,user,I usually prefer a quiet evening.
+public_09,development_test,syn_5101ee98621b0a0aa0efcc363c546da1,30,authored_templates_not_real_transcripts,6,assistant,What kinds of conversation do you enjoy?
+public_09,development_test,syn_5101ee98621b0a0aa0efcc363c546da1,30,authored_templates_not_real_transcripts,7,user,I like a playful conversation.
