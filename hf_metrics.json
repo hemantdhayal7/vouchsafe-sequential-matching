@@ -1,0 +1,12 @@
+{
+  "model_architecture": "all-MiniLM-L6-v2 Cross-Encoder",
+  "training_epochs": 5,
+  "train_samples": 756,
+  "test_samples": 190,
+  "test_accuracy": 0.5631578947368421,
+  "test_precision": 0.5,
+  "test_recall": 0.012048192771084338,
+  "test_f1": 0.023529411764705882,
+  "test_roc_auc": 0.5488683706789776,
+  "test_log_loss": 0.691143413125767
+}
