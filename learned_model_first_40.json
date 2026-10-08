@@ -1,0 +1,17 @@
+{
+  "model_name": "LogisticRegression_L2_40Members",
+  "trained_on_members": 40,
+  "sample_count": 10,
+  "in_sample_accuracy": 0.8,
+  "final_loss": 0.35275251853088296,
+  "weights": {
+    "bias": 0.5463560952586497,
+    "relationship_goal_match": 0.03084318554235664,
+    "relationship_pace_match": 0.7208389301112412,
+    "lifestyle_match": -1.0008299725780814,
+    "conversations_match": -0.20536563918760325,
+    "schedule_overlap": 0.9548634365676126,
+    "same_zone": 0.5463560952586497,
+    "age_diff": 0.07024383381100649
+  }
+}

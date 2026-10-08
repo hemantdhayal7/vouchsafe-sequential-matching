@@ -1,0 +1,17 @@
+{
+  "model_type": "LogisticRegression_L2_SGD",
+  "trained_on_members": 40,
+  "sample_count": 1,
+  "in_sample_accuracy": 1.0,
+  "final_loss": 0.03910472843937876,
+  "feature_weights": {
+    "bias": -1.2436457503970861,
+    "relationship_goal_match": 0.4524073949201577,
+    "relationship_pace_match": 0.0,
+    "lifestyle_match": -0.7912383554769272,
+    "conversations_match": 0.0,
+    "schedule_overlap": -0.35422759747634036,
+    "same_zone": -1.0626827924290227,
+    "age_diff": -0.10626827924290219
+  }
+}
