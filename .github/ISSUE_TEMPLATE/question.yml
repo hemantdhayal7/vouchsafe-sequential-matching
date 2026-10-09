@@ -1,3 +1,4 @@
+#Technical quation
 name: "Technical question"
 description: "Ask a public question about rules, data or the interface"
 body:
@@ -18,3 +19,4 @@ body:
       description: "List related FAQ entries or earlier issues."
     validations:
       required: true
+
